@@ -1,0 +1,582 @@
+{
+    "categories": [{
+            "id": "808130",
+            "name": "小食"
+        }, {
+            "id": "542442",
+            "name": "夏季限定"
+        }, {
+            "id": "1009328",
+            "name": "奶蓋系列"
+        }, {
+            "id": "250781",
+            "name": "拿鐵茶"
+        }, {
+            "id": "250779",
+            "name": "黑糖系列"
+        }, {
+            "id": "542447",
+            "name": "燕麥系列"
+        }, {
+            "id": "250782",
+            "name": "奶香茶"
+        }, {
+            "id": "250784",
+            "name": "鮮調茶"
+        }, {
+            "id": "250785",
+            "name": "調味茶"
+        }, {
+            "id": "250783",
+            "name": "原味茶"
+        }
+    ],
+    "items": [{
+            "id": "150120025",
+            "name": "香辣吞拿魚吐司",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "150120026",
+            "name": "吞拿魚沙律吐司",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "150302705",
+            "name": "港式魚肉燒賣 (8粒)",
+            "modifierGroupIds": ["28458768", "28458767"],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "151172958",
+            "name": "台式鹽酥雞",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "150302706",
+            "name": "台式濃汁牛丸 (4粒)",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "161857267",
+            "name": "台式濃汁貢丸(4粒)",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "152405503",
+            "name": "台式花枝丸 (4粒)",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "158493751",
+            "name": "台式原味香腸",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "158493752",
+            "name": "台式蒜味香腸",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "158493753",
+            "name": "台式黑椒香腸",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "39527394",
+            "name": "桑葚果茶 (凍)",
+            "modifierGroupIds": ["25142563", "25142557", "25142554"],
+            "categoryId": "542442",
+            "available": true
+        }, {
+            "id": "150338833",
+            "name": "百香桑葚沙冰 (凍)",
+            "modifierGroupIds": ["25142563", "25142557"],
+            "categoryId": "542442",
+            "available": true
+        }, {
+            "id": "155283994",
+            "name": "翡翠奶蓋 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "155283995",
+            "name": "紅茶奶蓋 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "155283996",
+            "name": "觀音奶蓋 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "155283997",
+            "name": "黃金烏龍奶蓋 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "159209394",
+            "name": "朱古力Oreo奶蓋",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "2273577",
+            "name": "紅茶拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273581",
+            "name": "紅茶珍珠拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273578",
+            "name": "翡翠拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273582",
+            "name": "翡翠珍珠拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273576",
+            "name": "觀音拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273583",
+            "name": "觀音珍珠拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273580",
+            "name": "紅豆拿鐵 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273579",
+            "name": "珍珠紅豆拿鐵 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273584",
+            "name": "芋香翡翠拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273585",
+            "name": "芋香紅茶拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273586",
+            "name": "芋香珍珠翡翠拿鐵",
+            "modifierGroupIds": ["25142563", "25142557", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273587",
+            "name": "芋香珍珠紅茶拿鐵",
+            "modifierGroupIds": ["25142563", "25142557", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273589",
+            "name": "冬瓜拿鐵",
+            "modifierGroupIds": ["25142563", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273590",
+            "name": "珍珠冬瓜拿鐵",
+            "modifierGroupIds": ["25142563", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273565",
+            "name": "黑糖奶茶 (凍)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273566",
+            "name": "黑糖晶球奶茶 (凍)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273567",
+            "name": "黑糖豆漿奶茶 (凍)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273568",
+            "name": "黑糖豆漿晶球奶茶 (凍)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273563",
+            "name": "黑糖觀音拿鐵 (凍)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273564",
+            "name": "黑糖觀音晶球拿鐵 (凍)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "152405504",
+            "name": "燕麥豆漿奶茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "152405505",
+            "name": "燕麥紅茶拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "152405506",
+            "name": "燕麥豆漿紅茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "152405507",
+            "name": "燕麥觀音拿鐵",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "152405508",
+            "name": "燕麥奶茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "2273592",
+            "name": "蔗香奶茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "2273591",
+            "name": "珍珠奶茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "2273593",
+            "name": "豆漿奶茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "152405509",
+            "name": "黃金桂烏龍奶茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "159209395",
+            "name": "朱古力觀音奶茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "2273608",
+            "name": "新鮮水果茶",
+            "modifierGroupIds": ["25142563", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273599",
+            "name": "翡翠檸檬 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273601",
+            "name": "檸檬蜜凍飲",
+            "modifierGroupIds": ["25142563", "25142556", "25142555"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273605",
+            "name": "檸檬蘆薈蜜 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142555"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273606",
+            "name": "檸檬益力多 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142555"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "3245135",
+            "name": "蘋果百香益力多 (凍)",
+            "modifierGroupIds": ["25142563", "25142554", "26438565"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "150338834",
+            "name": "功夫凍檸茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "152405510",
+            "name": "黃金凍檸茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273604",
+            "name": "冬瓜檸檬 (凍)",
+            "modifierGroupIds": ["25142563", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273609",
+            "name": "蜂蜜綠茶 (凍)",
+            "modifierGroupIds": ["25142563", "25142557", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273610",
+            "name": "百香綠茶 (凍)",
+            "modifierGroupIds": ["25142563", "25142559", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273611",
+            "name": "百香蘆薈綠茶 (凍)",
+            "modifierGroupIds": ["25142563", "25142559", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273612",
+            "name": "豆漿紅茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "149088903",
+            "name": "益力多綠茶 (凍)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273613",
+            "name": "冬瓜鐵觀音",
+            "modifierGroupIds": ["25142563", "25142555"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273614",
+            "name": "珍珠冬瓜鐵觀音",
+            "modifierGroupIds": ["25142563", "25142555"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273594",
+            "name": "蔗香紅茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250783",
+            "available": true
+        }, {
+            "id": "2273595",
+            "name": "特級翡翠綠",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250783",
+            "available": true
+        }, {
+            "id": "2273596",
+            "name": "炭燒鐵觀音",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250783",
+            "available": true
+        }, {
+            "id": "152405511",
+            "name": "黃金桂烏龍茶",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250783",
+            "available": true
+        }
+    ],
+    "modifierGroups": [{
+            "id": "28458768",
+            "name": "小食 - 走辣椒油",
+            "modifierOptions": [{
+                    "id": "191332600",
+                    "name": "走辣椒油"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142563",
+            "name": "凍飲 - 另加配料",
+            "modifierOptions": [{
+                    "id": "212203595",
+                    "name": "珍珠"
+                }, {
+                    "id": "26343591",
+                    "name": "紅豆"
+                }, {
+                    "id": "212203596",
+                    "name": "黑糖晶球"
+                }, {
+                    "id": "190170531",
+                    "name": "蘆薈"
+                }, {
+                    "id": "194286349",
+                    "name": "燕麥"
+                }, {
+                    "id": "203053739",
+                    "name": "奶蓋"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 6
+        }, {
+            "id": "28370792",
+            "name": "黑糖系列 - 少黑糖或多黑糖",
+            "modifierOptions": [{
+                    "id": "190170579",
+                    "name": "少黑糖"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142559",
+            "name": "飲品 - 甜度 (去糖)",
+            "modifierOptions": [{
+                    "id": "26343584",
+                    "name": "去糖"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142556",
+            "name": "飲品 - 甜度",
+            "modifierOptions": [{
+                    "id": "26343573",
+                    "name": "去糖"
+                }, {
+                    "id": "26343574",
+                    "name": "微糖"
+                }, {
+                    "id": "26343575",
+                    "name": "半糖"
+                }, {
+                    "id": "26343576",
+                    "name": "八分糖"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142557",
+            "name": "飲品 - 甜度 (不能選微糖)",
+            "modifierOptions": [{
+                    "id": "26343578",
+                    "name": "去糖"
+                }, {
+                    "id": "26343579",
+                    "name": "半糖"
+                }, {
+                    "id": "26343580",
+                    "name": "八分糖"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142554",
+            "name": "飲品 - 冰量 (微冰或多冰)",
+            "modifierOptions": [{
+                    "id": "26343568",
+                    "name": "微冰"
+                }, {
+                    "id": "26343569",
+                    "name": "多冰"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "28458767",
+            "name": "小食 - 走豉油",
+            "modifierOptions": [{
+                    "id": "191332597",
+                    "name": "走豉油"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142555",
+            "name": "飲品 - 冰量",
+            "modifierOptions": [{
+                    "id": "26343570",
+                    "name": "去冰"
+                }, {
+                    "id": "26343571",
+                    "name": "微冰"
+                }, {
+                    "id": "26343572",
+                    "name": "多冰"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "26438565",
+            "name": "飲品 - 甜度 (去糖/八分糖)",
+            "modifierOptions": [{
+                    "id": "80572769",
+                    "name": "去糖"
+                }, {
+                    "id": "80572771",
+                    "name": "八分糖"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }
+    ]
+}

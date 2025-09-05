@@ -1,0 +1,702 @@
+{
+	"categories": [
+		{
+			"id": "3515712",
+			"name": "Peach Series-桃桃系列"
+		},
+		{
+			"id": "2749891",
+			"name": "Winter Specials-冬日暖心系列"
+		},
+		{
+			"id": "2410903",
+			"name": "Egg Pancake-芳脆雞蛋糕"
+		},
+		{
+			"id": "2271973",
+			"name": "Mango-芒果"
+		},
+		{
+			"id": "2271965",
+			"name": "Fruit Tea-水果茶"
+		},
+		{
+			"id": "2271967",
+			"name": "Fresh Milk Tea-鮮奶茶"
+		},
+		{
+			"id": "2271968",
+			"name": "Cane Series-甘蔗系列"
+		},
+		{
+			"id": "2271969",
+			"name": "Brown Sugar Pearl Series-黑糖粉圓系列"
+		},
+		{
+			"id": "2271971",
+			"name": "Yakult-益力多"
+		},
+		{
+			"id": "2271972",
+			"name": "Agar-晶鑽寒天"
+		},
+		{
+			"id": "2271966",
+			"name": "Tea-茶類"
+		}
+	],
+	"items": [
+		{
+			"id": "187375978",
+			"name": "Peach Green Tea Jelly Fruit Smoothies-桃桃綠茶凍水果冰沙",
+			"modifierGroupIds": [
+				"31516348"
+			],
+			"categoryId": "3515712",
+			"available": true
+		},
+		{
+			"id": "187375979",
+			"name": "Agar Peach Oolong Tea-寒天桃桃烏龍冰茶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516347"
+			],
+			"categoryId": "3515712",
+			"available": true
+		},
+		{
+			"id": "181807840",
+			"name": "Longan And Jujube Tea-桂圓紅棗茶",
+			"modifierGroupIds": [
+				"34110504",
+				"31516352"
+			],
+			"categoryId": "2749891",
+			"available": true
+		},
+		{
+			"id": "171737977",
+			"name": "Original Egg Pancake-原味雞蛋糕",
+			"modifierGroupIds": [],
+			"categoryId": "2410903",
+			"available": true
+		},
+		{
+			"id": "171737979",
+			"name": "Custard Egg Pancake-卡士達雞蛋糕",
+			"modifierGroupIds": [],
+			"categoryId": "2410903",
+			"available": true
+		},
+		{
+			"id": "171737980",
+			"name": "Mochi Egg Pancake-麻糬雞蛋糕",
+			"modifierGroupIds": [],
+			"categoryId": "2410903",
+			"available": true
+		},
+		{
+			"id": "169320000",
+			"name": "093. Mango Fruit Tea (Iced)-093. 芒果水果茶 (凍)",
+			"modifierGroupIds": [
+				"31516347",
+				"31516350"
+			],
+			"categoryId": "2271973",
+			"available": true
+		},
+		{
+			"id": "169320001",
+			"name": "094. Mango Sago (Iced)-094. 芒果西米露 (凍)",
+			"modifierGroupIds": [
+				"31516347",
+				"31516350"
+			],
+			"categoryId": "2271973",
+			"available": true
+		},
+		{
+			"id": "169320002",
+			"name": "091. Mango Pomelo Sago (Iced)-091. 楊枝甘露 (凍)",
+			"modifierGroupIds": [
+				"31516347",
+				"31516350"
+			],
+			"categoryId": "2271973",
+			"available": true
+		},
+		{
+			"id": "169319967",
+			"name": "013. Yifang Fruit Tea-013. 一芳水果茶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271965",
+			"available": true
+		},
+		{
+			"id": "169319968",
+			"name": "023. Orange Fruit Tea (Iced)-023. 柳橙水果茶 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516349",
+				"31516353"
+			],
+			"categoryId": "2271965",
+			"available": true
+		},
+		{
+			"id": "169319969",
+			"name": "095. Peach Fruit Tea (Iced)-095. 水蜜桃水果茶 (凍)",
+			"modifierGroupIds": [
+				"31516348",
+				"31516347",
+				"31516353"
+			],
+			"categoryId": "2271965",
+			"available": true
+		},
+		{
+			"id": "169319970",
+			"name": "014. Passion Fruit Green Tea (Iced)-014. 鮮籽百香綠 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516353"
+			],
+			"categoryId": "2271965",
+			"available": true
+		},
+		{
+			"id": "169319971",
+			"name": "015. Pineapple Green Tea-015. 金鑽鳳梨綠",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271965",
+			"available": true
+		},
+		{
+			"id": "169319972",
+			"name": "018. Lemon Mountain Tea-018. 翡翠檸檬青",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271965",
+			"available": true
+		},
+		{
+			"id": "169319973",
+			"name": "020. Jelly with Lemon Green Tea (Iced)-020. 綠茶凍檸檬露 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516353"
+			],
+			"categoryId": "2271965",
+			"available": true
+		},
+		{
+			"id": "169319974",
+			"name": "024. Roselle Lemon Tea-024. 洛神檸檬",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271965",
+			"available": true
+		},
+		{
+			"id": "169319980",
+			"name": "037. Grass Jelly Tea Latte (Iced)-037. 仙草凍奶茶 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516351"
+			],
+			"categoryId": "2271967",
+			"available": true
+		},
+		{
+			"id": "169319981",
+			"name": "036. Pearl Black Tea Latte-036. 粉圓鮮奶茶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516351",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271967",
+			"available": true
+		},
+		{
+			"id": "169319982",
+			"name": "033. Black Tea Latte-033. 紅茶鮮奶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516351",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271967",
+			"available": true
+		},
+		{
+			"id": "169319983",
+			"name": "035. Oolong Tea Latte-035. 烏龍鮮奶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516351",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271967",
+			"available": true
+		},
+		{
+			"id": "169319984",
+			"name": "053. Sugarcane Mountain Tea-053. 甘蔗青茶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271968",
+			"available": true
+		},
+		{
+			"id": "169319985",
+			"name": "054. Sugarcane Latte-054. 甘蔗鮮奶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516351",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271968",
+			"available": true
+		},
+		{
+			"id": "169319986",
+			"name": "046. Brown Sugar Pearl Latte-046. 黑糖粉圓鮮奶",
+			"modifierGroupIds": [
+				"33567071"
+			],
+			"categoryId": "2271969",
+			"available": true
+		},
+		{
+			"id": "169319987",
+			"name": "047. Brown Sugar Pearl Black Tea Latte -047. 黑糖粉圓鮮奶茶",
+			"modifierGroupIds": [
+				"33567071",
+				"31516351"
+			],
+			"categoryId": "2271969",
+			"available": true
+		},
+		{
+			"id": "169319988",
+			"name": "048. Brown Sugar Pearl Oolong Tea Latte-048. 黑糖粉圓烏龍鮮奶茶",
+			"modifierGroupIds": [
+				"33567071",
+				"31516351"
+			],
+			"categoryId": "2271969",
+			"available": true
+		},
+		{
+			"id": "169319989",
+			"name": "122. Brown Sugar Pearl with Oat Milk-122. 黑糖粉圓燕麥奶",
+			"modifierGroupIds": [
+				"33567071"
+			],
+			"categoryId": "2271969",
+			"available": true
+		},
+		{
+			"id": "169319992",
+			"name": "010. Yakult with Passion Fruit Green Tea (Iced)-010. 益力多百香果 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516353"
+			],
+			"categoryId": "2271971",
+			"available": true
+		},
+		{
+			"id": "169319993",
+			"name": "009. Yakult with Pineapple Green Tea (Iced)-009. 益力多鳳梨 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516353"
+			],
+			"categoryId": "2271971",
+			"available": true
+		},
+		{
+			"id": "169319994",
+			"name": "179. Yakult with Peach Green Tea (Iced)-179. 益力多水蜜桃 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516353"
+			],
+			"categoryId": "2271971",
+			"available": true
+		},
+		{
+			"id": "169319995",
+			"name": "180. Yakult with Grapefruit Green Tea (Iced)-180. 益力多葡萄柚 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516353"
+			],
+			"categoryId": "2271971",
+			"available": true
+		},
+		{
+			"id": "169319996",
+			"name": "Agar Yakult Mountain Tea (Iced)-寒天益力多 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516353"
+			],
+			"categoryId": "2271972",
+			"available": true
+		},
+		{
+			"id": "169319997",
+			"name": "Agar Winter Melon Lemon Juice-寒天冬瓜露",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271972",
+			"available": true
+		},
+		{
+			"id": "169319998",
+			"name": "Agar Lemon Green Tea-寒天檸檬綠",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271972",
+			"available": true
+		},
+		{
+			"id": "169319999",
+			"name": "Agar Sugarcane Lemon Mountain Tea (Iced)-寒天甘蔗檸檬 (凍)",
+			"modifierGroupIds": [
+				"31516346",
+				"31516348",
+				"31516353"
+			],
+			"categoryId": "2271972",
+			"available": true
+		},
+		{
+			"id": "169319975",
+			"name": "001. Yifang Black Tea-001. 芳韻紅茶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271966",
+			"available": true
+		},
+		{
+			"id": "169319976",
+			"name": "002. Pouchong Green Tea-002. 包種綠茶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271966",
+			"available": true
+		},
+		{
+			"id": "169319977",
+			"name": "003. Songbo Mountain Tea-003. 松柏青茶",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271966",
+			"available": true
+		},
+		{
+			"id": "169319978",
+			"name": "004. Dong Ding Oolong Tea-004. 凍頂烏龍",
+			"modifierGroupIds": [
+				"31516348",
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271966",
+			"available": true
+		},
+		{
+			"id": "169319979",
+			"name": "058. Winter Melon Tea-058. 古釀冬瓜茶",
+			"modifierGroupIds": [
+				"31516353",
+				"33567070"
+			],
+			"categoryId": "2271966",
+			"available": true
+		}
+	],
+	"modifierGroups": [
+		{
+			"id": "31516346",
+			"name": "Drink - Ice Level-飲品 - 冰度",
+			"modifierOptions": [
+				{
+					"id": "315311335",
+					"name": "Regular Ice (100%)-正常冰 (100%)"
+				},
+				{
+					"id": "315311336",
+					"name": "Less Ice (50%)-少冰 (50%)"
+				},
+				{
+					"id": "315311337",
+					"name": "Quarter Ice (30%)-微冰 (30%)"
+				},
+				{
+					"id": "315311338",
+					"name": "Ice Free (0%)-走冰 (0%)"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "31516348",
+			"name": "Drink - Sugar Level-飲品 - 甜度",
+			"modifierOptions": [
+				{
+					"id": "315311341",
+					"name": "Regular Sugar (100%)-正常甜 (100%)"
+				},
+				{
+					"id": "315311342",
+					"name": "Less Sugar (80%)-少糖 (80%)"
+				},
+				{
+					"id": "315311343",
+					"name": "Half Sugar (50%)-半糖 (50%)"
+				},
+				{
+					"id": "315311344",
+					"name": "One-third Sugar (30%)-微糖 (30%)"
+				},
+				{
+					"id": "315311345",
+					"name": "Quarter Sugar (20%)-微微糖 (20%)"
+				},
+				{
+					"id": "315311346",
+					"name": "Sugar Free (0%)-無糖 (0%)"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "31516347",
+			"name": "Drink - Regular Ice or Less Ice-飲品 - 正常冰或少冰",
+			"modifierOptions": [
+				{
+					"id": "315311339",
+					"name": "Regular Ice (100%)-正常冰 (100%)"
+				},
+				{
+					"id": "315311340",
+					"name": "Less Ice (50%)-少冰 (50%)"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "31516349",
+			"name": "Drink - Sugar Level (Sugar Free Not Available)-飲品 - 甜度 (沒有無糖)",
+			"modifierOptions": [
+				{
+					"id": "315311347",
+					"name": "Regular Sugar (100%)-正常甜 (100%)"
+				},
+				{
+					"id": "315311348",
+					"name": "Less Sugar (80%)-少糖 (80%)"
+				},
+				{
+					"id": "315311349",
+					"name": "Half Sugar (50%)-半糖 (50%)"
+				},
+				{
+					"id": "315311350",
+					"name": "One-third Sugar (30%)-微糖 (30%)"
+				},
+				{
+					"id": "315311351",
+					"name": "Quarter Sugar (20%)-微微糖 (20%)"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "33567071",
+			"name": "Drink - Ice Level-飲品 - 冰度",
+			"modifierOptions": [
+				{
+					"id": "444111882",
+					"name": "Regular Ice (100%)-正常冰 (100%)"
+				},
+				{
+					"id": "444111883",
+					"name": "Hot Drink-熱飲"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "31516351",
+			"name": "Drinks - Change to Oat Milk-飲品 - 轉燕麥奶",
+			"modifierOptions": [
+				{
+					"id": "315311355",
+					"name": "Change to Oat Milk-轉燕麥奶"
+				}
+			],
+			"minSelection": 0,
+			"maxSelection": 1
+		},
+		{
+			"id": "31516350",
+			"name": "Mango - Sugar Level-芒果 - 甜度",
+			"modifierOptions": [
+				{
+					"id": "315311352",
+					"name": "Regular Sugar (100%)-正常甜 (100%)"
+				},
+				{
+					"id": "315311353",
+					"name": "Less Sugar (80%)-少糖 (80%)"
+				},
+				{
+					"id": "315311354",
+					"name": "Half Sugar (50%)-半糖 (50%)"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "34110504",
+			"name": "Drink - Ice Level-飲品 - 冰度",
+			"modifierOptions": [
+				{
+					"id": "480943411",
+					"name": "Hot Drink-熱飲"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "31516353",
+			"name": "Drink - Add On Toppings-飲品 - 另加配料",
+			"modifierOptions": [
+				{
+					"id": "315311358",
+					"name": "Pearl-粉圓"
+				},
+				{
+					"id": "315311361",
+					"name": "Agar Jelly-寒天水晶球"
+				},
+				{
+					"id": "315311362",
+					"name": "Sago-西米"
+				},
+				{
+					"id": "320884852",
+					"name": "Grass Jelly (Not recommended for hot drinks)-仙草凍 (不建議加入熱飲)"
+				},
+				{
+					"id": "320884853",
+					"name": "Green Tea Jelly (Not recommended for hot drinks)-綠茶凍 (不建議加入熱飲)"
+				}
+			],
+			"minSelection": 0,
+			"maxSelection": 2
+		},
+		{
+			"id": "31516352",
+			"name": "Drink - Add On Pearl and Sago-飲品 - 另加粉圓及西米",
+			"modifierOptions": [
+				{
+					"id": "315311356",
+					"name": "Pearl-粉圓"
+				},
+				{
+					"id": "315311357",
+					"name": "Sago-西米"
+				}
+			],
+			"minSelection": 0,
+			"maxSelection": 2
+		},
+		{
+			"id": "33567070",
+			"name": "Drink - Ice Level (Hot)-飲品 - 冰度",
+			"modifierOptions": [
+				{
+					"id": "444111877",
+					"name": "Regular Ice (100%)-正常冰 (100%)"
+				},
+				{
+					"id": "444111878",
+					"name": "Less Ice (50%)-少冰 (50%)"
+				},
+				{
+					"id": "444111879",
+					"name": "Quarter Ice (30%)-微冰 (30%)"
+				},
+				{
+					"id": "444111880",
+					"name": "Ice Free (0%)-走冰 (0%)"
+				},
+				{
+					"id": "444111881",
+					"name": "Hot Drink-熱飲"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		}
+	]
+}

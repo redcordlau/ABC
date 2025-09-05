@@ -1,0 +1,38 @@
+INSERT INTO restaurant(name, menu_Path) values("TP Tea 茶湯薈", "Hey this is Varun");
+INSERT INTO restaurant(name, menu_Path, menu_source_url) values("YiFang 一芳", "Hey this is Varun", "/zh/menu/hong-kong/taikoo-cityplaza/yifang-tai-koo");
+INSERT INTO restaurant(name, menu_Path, menu_source_url) values("春葉好茶 Chun Ye", "Hey this is Varun", "/zh/menu/Hong%20Kong/quarrybay/chun-ye");
+
+INSERT INTO event(organizer, date, description, restaurant_id) select "Andrew", "2023-03-02", "Interal testing",  id from restaurant where name = "春葉好茶 Chun Ye";
+
+INSERT INTO member values("b79316","NG, Alison");
+INSERT INTO member values("e64584","LI, Rita");
+INSERT INTO member values("e71678","YAO, Lin");
+INSERT INTO member values("e96062","WONG, Peter K");
+INSERT INTO member values("613500","KONG, Paul");
+INSERT INTO member values("e87533","LEE, Kenny S");
+INSERT INTO member values("798858","LIU, Bonnie");
+INSERT INTO member values("507516","MAN, Sandy");
+INSERT INTO member values("a81720","CHAN, Cynthia");
+INSERT INTO member values("c61125","LEE, Darrell");
+INSERT INTO member values("d09856","CHOI, Wilson");
+INSERT INTO member values("e64559","WOO, Eric");
+INSERT INTO member values("e87883","LAM, Bella");
+INSERT INTO member values("e66770","LO, Edmond C");
+INSERT INTO member values("e45034","NG, Ken");
+INSERT INTO member values("f11175","CHUNG, Vivian Y");
+INSERT INTO member values("c97179","HSIEH, Peter Min Sheng");
+INSERT INTO member values("e01438","PUN, Samuel");
+INSERT INTO member values("936728","YIP, Sylvie");
+INSERT INTO member values("177626","WONG, Anby");
+INSERT INTO member values("e24996","SABRE, Prisca");
+INSERT INTO member values("e64081","NANJUNDASWAMY, Nandini");
+INSERT INTO member values("f12009","YANG, Zoe");
+INSERT INTO member values("c55933","LAU, Andrew");
+INSERT INTO member values("e94912","HO, Hilda");
+INSERT INTO member values("e24799","YEREMIAN, Julien");
+INSERT INTO member values("842333","HASNAOUI, Karima");
+INSERT INTO member values("987414","MA, Kenny");
+INSERT INTO member values("177686","CHENG, Roger");
+INSERT INTO member values("e87522","LAI, Daniel");
+INSERT INTO member values("e56116","LI, Eden C");
+INSERT INTO member values("a39538","SHAH, Viral");

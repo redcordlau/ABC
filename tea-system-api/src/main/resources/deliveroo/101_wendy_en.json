@@ -1,0 +1,3057 @@
+{
+	"categories": [
+		{
+			"id": "777679",
+			"name": "Afternoon Tea Set - Served after 2:30pm-下午茶餐 - 2:30pm後供應"
+		},
+		{
+			"id": "777704",
+			"name": "Snacks - Served after 2:00pm-各式小食 - 2:00pm後供應"
+		},
+		{
+			"id": "777694",
+			"name": "Fresh Fruit Juice Set-鮮果汁套餐"
+		},
+		{
+			"id": "777739",
+			"name": "Salad-各式沙律"
+		},
+		{
+			"id": "777794",
+			"name": "Toast-各式多士"
+		},
+		{
+			"id": "777796",
+			"name": "Sandwich with 2 Toppings-各式雙拼三文治"
+		},
+		{
+			"id": "777797",
+			"name": "Toasties with 2 Fillings-各式雙拼飛碟多士"
+		},
+		{
+			"id": "777740",
+			"name": "Mixed Fresh Fruits Series-鮮雜果系列"
+		},
+		{
+			"id": "777788",
+			"name": "Taiwanese Beverage - Served after 12:00pm-台式飲品 - 12:00pm後供應"
+		},
+		{
+			"id": "777716",
+			"name": "Fresh Fruit Juice-鮮果汁"
+		},
+		{
+			"id": "777718",
+			"name": "Milkshake-奶昔"
+		},
+		{
+			"id": "777791",
+			"name": "Signature Fresh Fruit Iced Beverage-特色鮮果凍飲"
+		},
+		{
+			"id": "777793",
+			"name": "Beverage-飲品"
+		}
+	],
+	"items": [
+		{
+			"id": "148788184",
+			"name": "1. Egg Tart-1. 蛋撻",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788185",
+			"name": "2. Pineapple Bun with Fresh Butter-2. 鮮牛油菠蘿包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788186",
+			"name": "3. Deep-fried Chicken Wings (1 pc)-3. 炸雞翼 (1隻)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788256",
+			"name": "3. Soy Sauce Chicken Wings (1 pc)-3. 豉油雞翼 (1隻)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788257",
+			"name": "4. French Toast-4. 西多士",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788258",
+			"name": "5. Spring Rolls (3 pcs)-5. 春卷 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788259",
+			"name": "5. Curry Puffs (3 pcs)-5. 咖喱角 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788297",
+			"name": "7. Omelette with 2 Toppings with Buttered Bread-7. 雙拼奄列配牛油方包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788298",
+			"name": "8. Deep-fried Fish Fillet with Salad-8. 炸魚柳配沙律",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788299",
+			"name": "9. Pan-fried Pork Tenderloin with Salad-9. 煎豬柳配沙律",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788300",
+			"name": "10. Chicken Wings with Salad-10. 雞翼配沙律",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788301",
+			"name": "11. Hash Brown with Salad-11. 薯餅配沙律",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788304",
+			"name": "12. Pineapple and Ham-12. 菠蘿火腿扒",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788305",
+			"name": "13. Japanese Grilled Chicken (3 Skewers)-13. 日式炭燒雞 (3串)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788349",
+			"name": "14. Deep-fried Chicken Burger (3 pcs)-14. 炸雞堡 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788350",
+			"name": "15. Deep-fried Seafood Burger (3 pcs)-15. 炸海鮮堡 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788361",
+			"name": "16. Chicken Burger (3 pcs)-16. 麥香雞 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788362",
+			"name": "17. Siu Mai (6 pcs)-17. 燒賣 (6粒)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788363",
+			"name": "18. Pork Chop with Salad-18. 豬扒配沙律",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788364",
+			"name": "19. Purple Potato (3 pcs)-19. 紫薯 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788419",
+			"name": "22. Pan-fried Dumplings (3 pcs)-22. 煎餃子 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788456",
+			"name": "23. Shrimp Toast (4 pcs)-23. 蝦多士 (4件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788502",
+			"name": "24. Seafood Tofu Pouches (4 pcs)-24. 海鮮金錢袋 (4件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148789098",
+			"name": "25. Thick Toast with Peanut Butter and Condensed Milk-25. 花生醬奶厚吐司",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148789107",
+			"name": "26. Toast with Hazelnut Chocolate Paste-26. 金沙朱古力醬吐司",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148789115",
+			"name": "27. Toast with Seaweed and Meat Floss-27. 紫菜肉鬆吐司",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148789623",
+			"name": "Egg Tart-出爐蛋撻",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148789624",
+			"name": "Siu Mai (6 pcs)-燒賣 (6粒）",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148789625",
+			"name": "Hot Dog-熱狗",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790066",
+			"name": "Pineapple Bun with Fresh Butter-鮮牛油菠蘿包",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790067",
+			"name": "French Toast-西多士",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790068",
+			"name": "Jumbo Sausage-珍寶腸",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790069",
+			"name": "Deep-fried Banana-炸香蕉",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790070",
+			"name": "Deep-fried Spring Rolls (5 pcs)-炸春卷 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790071",
+			"name": "Deep-fried Curry Puffs (5 pcs)-炸咖喱角 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790116",
+			"name": "Deep-fried Chicken Wings (2 pcs)-炸雞翼 (2隻)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790117",
+			"name": "Soy Sauce Chicken Wings (2 pcs)-豉油雞翼 (2隻)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790122",
+			"name": "Deep-fried Fish Fillet (2 pcs)-炸魚柳 (2件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790140",
+			"name": "Deep-fried Pork Tenderloin (2 pcs)-煎豬柳 (2件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790141",
+			"name": "Omelette with 2 Toppings with Buttered Bread-雙拼奄列配牛油方包",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790153",
+			"name": "Hash Brown (2 pcs)-炸薯餅 (2件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790154",
+			"name": "Japanese Grilled Chicken (5 Skewers)-日式炭燒雞 (5串)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790155",
+			"name": "Deep-fried Chicken Burger (5 pcs)-炸雞堡 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790156",
+			"name": "Deep-fried Seafood Burger (5 pcs)-炸海鮮堡 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790157",
+			"name": "Japanese Deep-fried Prawn Cake (5 pcs)-日式炸蝦餅 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790158",
+			"name": "Bun with Lemongrass Chicken Fillet-香茅雞扒包",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790159",
+			"name": "Pineapple and Ham-菠蘿火腿扒",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790160",
+			"name": "Club Sandwich-公司三文治",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790161",
+			"name": "Pan-fried Dumplings (5 pcs)-煎餃子 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790162",
+			"name": "Shrimp Stick (5 pcs)-棒棒蝦 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790163",
+			"name": "Popcorn Chicken-鹽酥雞",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790165",
+			"name": "Pork Chop (2 pcs)-豬扒 (2件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790166",
+			"name": "Lobster Balls (5 pcs)-龍蝦丸 (5粒)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790167",
+			"name": "Beef Balls with Spiced Salt (5 pcs)-椒鹽牛丸 (5粒)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790168",
+			"name": "Corn Croquette (5 pcs)-粟米薯餅 (5粒)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790180",
+			"name": "Deep-Fried Shrimp Ball (5 pcs)-金雀蝦球 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790181",
+			"name": "Deep-Fried Seafood Treasure Roll (5 pcs)-炸海之寶卷 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790183",
+			"name": "Deep-fried Lobster Balls (5 pcs)-炸龍蝦丸 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790184",
+			"name": "Deep-fried Cuttlefish Balls (5 pcs)-炸墨魚丸 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148790200",
+			"name": "Deep-fried Seafood Platter (5 pcs)-酥炸海鮮拼盤 (5件)",
+			"modifierGroupIds": [],
+			"categoryId": "777704",
+			"available": true
+		},
+		{
+			"id": "148789129",
+			"name": "A. Toast-A. 多士",
+			"modifierGroupIds": [
+				"28358643",
+				"28358639"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789130",
+			"name": "B. Hot Dog-B. 熱狗",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789131",
+			"name": "C. Sandwich with 2 Toppings-C. 雙拼三文治",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358638"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789139",
+			"name": "D. Toastie with 2 Fillings-D. 雙拼飛碟多士",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358638"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789140",
+			"name": "E. Fresh Fruit Box-E. 鮮果盒",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789141",
+			"name": "E. Salad-E. 沙律",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789142",
+			"name": "F. Toast with Fresh Fruit Box-F. 多士配鮮果盒",
+			"modifierGroupIds": [
+				"28358643",
+				"28358639"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789143",
+			"name": "F. Toast with Salad-F. 多士配沙律",
+			"modifierGroupIds": [
+				"28358643",
+				"28358639"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789147",
+			"name": "G. Hot Dog with Fresh Fruit Box-G. 熱狗配鮮果盒",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789148",
+			"name": "G. Hot Dog with Salad-G. 熱狗配鮮沙律",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789149",
+			"name": "H. Sandwich with 2 Toppings and Fresh Fruit Box-H. 雙拼三文治配鮮果盒",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358638"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789150",
+			"name": "H. Sandwich with 2 Toppings and Salad-H. 雙拼三文治配沙律",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358638"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789152",
+			"name": "I. Toasties with 2 Fillings and Fresh Fruit Box-I. 雙拼飛碟多士配鮮果盒",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358638"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789153",
+			"name": "I. Toastie with 2 Fillings and Salad-I. 雙拼飛碟多士配沙律",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358638"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789155",
+			"name": "J. Club Sandwich-J. 公司三文治",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789158",
+			"name": "L. Mango and Pork Loin Burger-L. 香芒豬柳包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789159",
+			"name": "M. Banana and Pork Loin Burger-M. 香蕉豬柳包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789164",
+			"name": "N. Cream Sauce and Egg Salad Croissant-N. 白汁碎蛋牛角包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789165",
+			"name": "O. Cream Sauce and Tuna Croissant-O. 白汁吞拿魚牛角包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789166",
+			"name": "P. Crab Stick French Baguette with Cream Sauce-P. 白汁蟹柳法包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789167",
+			"name": "Q. Egg Salad and Tuna Baguette-Q. 白汁碎蛋吞拿魚法包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789199",
+			"name": "R. Lobster Balls (3 pcs)-R. 龍蝦丸 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789202",
+			"name": "T. Deep-fried Marinated Chicken Leg-T. 滷水炸雞髀",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789204",
+			"name": "U. Pork Chop Burger-U. 豬扒包",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789210",
+			"name": "V. Shrimp Stick (3 pcs)-V. 棒棒蝦 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789214",
+			"name": "W. French Fries-W. 炸薯條",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789217",
+			"name": "X. Deep-Fried Shrimp Ball (3 pcs)-X. 金雀蝦球 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789218",
+			"name": "Y. Deep-Fried Seafood Treasure Roll (3 pcs)-Y. 炸海之寶卷 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789219",
+			"name": "Z. Deep-fried Lobster Balls (3 pcs)-Z. 炸龍蝦丸 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789220",
+			"name": "AA. Deep-fried Cuttlefish Balls (3 pcs)-AA. 炸墨魚丸 (3件)",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789223",
+			"name": "BB. Crispy Piggy Bun with Condensed Milk and Butter-BB. 奶油脆豬",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789224",
+			"name": "BB. Crispy Piggy Bun with Condensed Milk and Peanut Butter-BB. 奶醬脆豬",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148789226",
+			"name": "CC. Popcorn Chicken-CC. 鹽酥雞",
+			"modifierGroupIds": [
+				"28358643"
+			],
+			"categoryId": "777694",
+			"available": true
+		},
+		{
+			"id": "148790559",
+			"name": "Mixed Fresh Fruits Salad-鮮雜果沙律",
+			"modifierGroupIds": [],
+			"categoryId": "777739",
+			"available": true
+		},
+		{
+			"id": "148790560",
+			"name": "Egg and Fresh Fruit Salad-雞蛋鮮果沙律",
+			"modifierGroupIds": [],
+			"categoryId": "777739",
+			"available": true
+		},
+		{
+			"id": "148790561",
+			"name": "Pineapple and Ham Salad-菠蘿火腿沙律",
+			"modifierGroupIds": [],
+			"categoryId": "777739",
+			"available": true
+		},
+		{
+			"id": "148790563",
+			"name": "Corn and Ham Salad-粟米火腿沙律",
+			"modifierGroupIds": [],
+			"categoryId": "777739",
+			"available": true
+		},
+		{
+			"id": "148790564",
+			"name": "Tuna and Corn Salad-吞粟粒沙律",
+			"modifierGroupIds": [],
+			"categoryId": "777739",
+			"available": true
+		},
+		{
+			"id": "148791313",
+			"name": "Toast-各式多士",
+			"modifierGroupIds": [
+				"28358639"
+			],
+			"categoryId": "777794",
+			"available": true
+		},
+		{
+			"id": "148791314",
+			"name": "Sandwich with 2 Toppings-各式雙拼三文治",
+			"modifierGroupIds": [
+				"28358640",
+				"28358641",
+				"28358638"
+			],
+			"categoryId": "777796",
+			"available": true
+		},
+		{
+			"id": "148791315",
+			"name": "Toasties with 2 Fillings-各式雙拼飛碟多士",
+			"modifierGroupIds": [
+				"28358640",
+				"28358641",
+				"28358638"
+			],
+			"categoryId": "777797",
+			"available": true
+		},
+		{
+			"id": "148790558",
+			"name": "Mixed Fresh Fruits Box-鮮雜果盒",
+			"modifierGroupIds": [],
+			"categoryId": "777740",
+			"available": true
+		},
+		{
+			"id": "148790565",
+			"name": "Mixed Fresh Fruits Cup-鮮雜果杯",
+			"modifierGroupIds": [],
+			"categoryId": "777740",
+			"available": true
+		},
+		{
+			"id": "148791205",
+			"name": "Shaken Black Tea-泡沫紅茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791206",
+			"name": "Lemon Black Tea-檸檬紅茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791207",
+			"name": "Honey Black Tea-蜂蜜紅茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791208",
+			"name": "Jasmine Green Tea-茉香綠茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791209",
+			"name": "Lemon Honey Green Tea-檸蜜綠茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791210",
+			"name": "Honey Green Tea-蜂蜜綠茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791211",
+			"name": "Green Apple Green Tea-青蘋果綠茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791212",
+			"name": "Bubble Milk Tea-珍珠奶茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791213",
+			"name": "Bubble Black Tea-珍珠紅茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791214",
+			"name": "Bubble Green Tea-珍珠綠茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791215",
+			"name": "Taro Milk Tea with Pearls-香芋珍珠奶茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791216",
+			"name": "Ginger Milk Tea-薑母奶茶",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791217",
+			"name": "Yuzu and Mandarin Drink-柚子柑露",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791218",
+			"name": "Mango Sago-芒果西米露",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791219",
+			"name": "Iced Mango Drink with Pearls-芒果珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791220",
+			"name": "Iced Papaya Drink with Pearls-木瓜珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791221",
+			"name": "Iced Watermelon Drink with Pearls-西瓜珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791222",
+			"name": "Iced Coconut Milk with Pearls-椰子珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791223",
+			"name": "Iced Melon Drink with Pearls-蜜瓜珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791224",
+			"name": "Iced Peach Drink with Pearls-蜜桃珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791225",
+			"name": "Iced Dragon Fruit Drink with Pearls-火龍果珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791226",
+			"name": "Iced Strawberry Drink with Pearls-士多啤梨珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791246",
+			"name": "Iced Nectarine Drink with Pearls-桃駁梨珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791247",
+			"name": "Iced Cantaloupe Drink with Pearls-哈密瓜珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791248",
+			"name": "Iced Musk Melon Drink with Pearls-皺紋瓜珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791249",
+			"name": "Iced Kiwi Fruit Drink with Pearls-奇異果珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791250",
+			"name": "Iced Sesame Milk Tea with Pearls-芝麻珍珠冰",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791251",
+			"name": "Coffee with Jelly-咖啡點子",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791252",
+			"name": "Five Vegetables Juice (Extra Large)-五菜汁 (特大杯)",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791253",
+			"name": "Chocolate with Agar Jelly-寒天朱古力",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791254",
+			"name": "Mocha-摩卡咖啡",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791255",
+			"name": "Passion Fruit Juice-百香果汁",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791256",
+			"name": "Strawberry Frappe-草莓雪香",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791257",
+			"name": "Mango Smoothie-芒果雪香",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791258",
+			"name": "Chocolate Frappe-朱古力雪香",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791259",
+			"name": "Taro Frappe-芋頭雪香",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148791260",
+			"name": "Aloe-蘆薈",
+			"modifierGroupIds": [
+				"28358624"
+			],
+			"categoryId": "777788",
+			"available": true
+		},
+		{
+			"id": "148790208",
+			"name": "Apple Juice-蘋果汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790209",
+			"name": "Orange Juice-鮮橙汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790210",
+			"name": "Melon Juice-蜜瓜汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790211",
+			"name": "Pomelo Juice-西柚汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790219",
+			"name": "Pear Juice-雪梨汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790220",
+			"name": "Lemon Juice-檸檬汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790221",
+			"name": "Grape Juice-提子汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790222",
+			"name": "Pear Juice-啤梨汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790223",
+			"name": "Star Fruit Juice-楊桃汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790224",
+			"name": "Celery Juice-西芹汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790225",
+			"name": "Tomato Juice-蕃茄汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790226",
+			"name": "Mango Juice-芒果汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790229",
+			"name": "Papaya Juice-木瓜汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790230",
+			"name": "Coconut Juice-椰子汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790231",
+			"name": "Carrot Juice-甘筍汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790232",
+			"name": "Pomegranate Juice-石榴汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790239",
+			"name": "Watermelon Juice-西瓜汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790240",
+			"name": "Banana Juice-香蕉汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790241",
+			"name": "Pineapple Juice-菠蘿汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790242",
+			"name": "Peach Juice-蜜桃汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790243",
+			"name": "Dragon Fruit Juice-火龍果汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790244",
+			"name": "Kiwi Juice-奇異果汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790245",
+			"name": "Cantaloupe Juice-皺紋瓜汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790252",
+			"name": "Muskmelon Juice-哈密瓜汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790253",
+			"name": "Nectarine Juice-桃駁梨汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790255",
+			"name": "Bitter Melon and Apple Juice-涼瓜蘋果汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790256",
+			"name": "Lychee Juice-荔枝汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790267",
+			"name": "Iced Banana Mocha-香蕉冰摩卡",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790268",
+			"name": "Watermelon Bubble Ice-西瓜泡泡冰",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790269",
+			"name": "Kiwi Juice-奇果飄綠",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790270",
+			"name": "Sunshine Samba-陽光森巴",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790339",
+			"name": "Fresh Fruit Juice Combo-雙拼鮮果汁",
+			"modifierGroupIds": [
+				"28358604"
+			],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148791261",
+			"name": "Five Vegetables Juice-五菜汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148791262",
+			"name": "Aloe Fruit Juice-蘆薈果汁",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148791263",
+			"name": "Honey Bitter Melon -涼瓜蜜糖",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148791264",
+			"name": "Carrot and Bitter Melon-甘筍涼瓜",
+			"modifierGroupIds": [],
+			"categoryId": "777716",
+			"available": true
+		},
+		{
+			"id": "148790314",
+			"name": "Apple Milkshake-蘋果奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790315",
+			"name": "Orange Milkshake-鮮橙奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790316",
+			"name": "Melon Milkshake-蜜瓜奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790317",
+			"name": "Pomelo Milkshake-西柚奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790318",
+			"name": "Pear Milkshake-雪梨奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790319",
+			"name": "Lemon Milkshake-檸檬奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790320",
+			"name": "Grape Milkshake-提子奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790321",
+			"name": "Pear Milkshake-啤梨奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790324",
+			"name": "Carambola Milkshake-楊桃奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790325",
+			"name": "Celery Milkshake-西芹奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790326",
+			"name": "Tomato Milkshake-蕃茄奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790327",
+			"name": "Mango Milkshake-芒果奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790328",
+			"name": "Papaya Milkshake-木瓜奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790329",
+			"name": "Coconut Milkshake-椰子奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790330",
+			"name": "Carrot Milkshake-甘筍奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790331",
+			"name": "Pomegranate Milkshake-石榴奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790332",
+			"name": "Watermelon Milkshake-西瓜奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790333",
+			"name": "Banana Milkshake-香蕉奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790334",
+			"name": "Pineapple Milkshake-菠蘿奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790335",
+			"name": "Peach Milkshake-蜜桃奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790336",
+			"name": "Dragon Fruit Milkshake-火龍果奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790337",
+			"name": "Kiwi Milkshake-奇異果奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790338",
+			"name": "Musk Melon Milkshake-皺紋瓜奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790350",
+			"name": "Muskmelon Milkshake-哈密瓜奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790351",
+			"name": "Nectarine Milkshake-桃駁梨奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790508",
+			"name": "Bitter Melon and Apple Milkshake-涼瓜蘋果奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790509",
+			"name": "Lychee Milkshake-荔枝奶昔",
+			"modifierGroupIds": [
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148790512",
+			"name": "Milkshake Combo-雙拼奶昔",
+			"modifierGroupIds": [
+				"28358604",
+				"28358605"
+			],
+			"categoryId": "777718",
+			"available": true
+		},
+		{
+			"id": "148791275",
+			"name": "Mango Smoothie-粒粒芒果爽",
+			"modifierGroupIds": [],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791276",
+			"name": "Mango Pomelo Sago-楊枝甘露",
+			"modifierGroupIds": [],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791277",
+			"name": "Iced Mixed Fruit Drink-鮮雜果冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791278",
+			"name": "Iced Nata de Coco Drink-椰纖果冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791279",
+			"name": "Iced Grass Jelly Drink-涼粉冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791280",
+			"name": "Red Bean Iced Drink-紅豆冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791281",
+			"name": "Fresh Mixed Fruit Coconut Jelly Iced Drink-鮮雜果椰纖果冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791282",
+			"name": "Iced Mixed Fruit Drink with Grass Jelly-鮮雜果涼粉冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791283",
+			"name": "Herb Jelly Iced Drink with Coconut -椰纖涼粉冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791284",
+			"name": "Red Bean Iced Drink with Coconut-椰纖紅豆冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791972",
+			"name": "Iced Mixed Fruit Red Bean Drink-鮮雜果紅豆冰凍飲",
+			"modifierGroupIds": [
+				"28358648"
+			],
+			"categoryId": "777791",
+			"available": true
+		},
+		{
+			"id": "148791285",
+			"name": "Coffee-咖啡",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791286",
+			"name": "Milk Tea-奶茶",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791287",
+			"name": "Coffee with Milk Tea-鴛鴦",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791288",
+			"name": "Fresh Milk-鮮奶",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791289",
+			"name": "Ginger Tea-薑茶",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791290",
+			"name": "Lemon Tea-檸檬茶",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791291",
+			"name": "Lemon Water-檸檬水",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791292",
+			"name": "Ribena-利賓納",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791293",
+			"name": "Horlicks-好立克",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791294",
+			"name": "Ovaltine-阿華田",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791295",
+			"name": "Almond Milk-杏仁霜",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791296",
+			"name": "Honey Citron Tea-柚子蜜",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791297",
+			"name": "Citrus Honey-柑桔蜜",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791298",
+			"name": "Goji Berry Honey-杞子蜜",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791299",
+			"name": "Red Dates Tea-紅棗茶",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791300",
+			"name": "Lemon 7 Up-檸檬七喜",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791301",
+			"name": "Lemon Coke-檸檬可樂",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791302",
+			"name": "Coke with Ginger and Lemon-檸檬可樂加薑",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791303",
+			"name": "Watercress Honey-西洋菜蜜",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791304",
+			"name": "Watercress Honey with Lemon-檸檬西洋菜蜜",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791305",
+			"name": "Chrysanthemum Honey-蜂蜜菊花露",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791306",
+			"name": "Honey Pear Tea-蜂蜜梨茶",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791307",
+			"name": "Lime and Mandarin Honey-蜂蜜青檸柑桔",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148791308",
+			"name": "Rose Syrup-玫瑰花釀",
+			"modifierGroupIds": [],
+			"categoryId": "777793",
+			"available": true
+		}
+	],
+	"modifierGroups": [
+		{
+			"id": "28358643",
+			"name": "Set - Beverage-套餐 - 飲品",
+			"modifierOptions": [
+				{
+					"id": "189890042",
+					"name": "Apple Juice-蘋果汁"
+				},
+				{
+					"id": "189890043",
+					"name": "Orange Juice-鮮橙汁"
+				},
+				{
+					"id": "189890044",
+					"name": "Melon Juice-蜜瓜汁"
+				},
+				{
+					"id": "189890045",
+					"name": "Pomelo Juice-西柚汁"
+				},
+				{
+					"id": "189890046",
+					"name": "Pear Juice-雪梨汁"
+				},
+				{
+					"id": "189890047",
+					"name": "Lemon Juice-檸檬汁"
+				},
+				{
+					"id": "189890048",
+					"name": "Grape Juice-提子汁"
+				},
+				{
+					"id": "189890049",
+					"name": "Pear Juice-啤梨汁"
+				},
+				{
+					"id": "189890050",
+					"name": "Star Fruit Juice-楊桃汁"
+				},
+				{
+					"id": "189890051",
+					"name": "Celery Juice-西芹汁"
+				},
+				{
+					"id": "189890052",
+					"name": "Tomato Juice-蕃茄汁"
+				},
+				{
+					"id": "189890053",
+					"name": "Mango Juice-芒果汁"
+				},
+				{
+					"id": "189890054",
+					"name": "Papaya Juice-木瓜汁"
+				},
+				{
+					"id": "189890055",
+					"name": "Coconut Juice-椰子汁"
+				},
+				{
+					"id": "189890056",
+					"name": "Carrot Juice-甘筍汁"
+				},
+				{
+					"id": "189890057",
+					"name": "Pomegranate Juice-石榴汁"
+				},
+				{
+					"id": "189890058",
+					"name": "Watermelon Juice-西瓜汁"
+				},
+				{
+					"id": "189890059",
+					"name": "Banana Juice-香蕉汁"
+				},
+				{
+					"id": "189890060",
+					"name": "Pineapple Juice-菠蘿汁"
+				},
+				{
+					"id": "189890061",
+					"name": "Peach Juice-蜜桃汁"
+				},
+				{
+					"id": "189890062",
+					"name": "Dragon Fruit Juice-火龍果汁"
+				},
+				{
+					"id": "189890063",
+					"name": "Kiwi Juice-奇異果汁"
+				},
+				{
+					"id": "189890064",
+					"name": "Cantaloupe Juice-皺紋瓜汁"
+				},
+				{
+					"id": "189890065",
+					"name": "Muskmelon Juice-哈密瓜汁"
+				},
+				{
+					"id": "189890066",
+					"name": "Nectarine Juice-桃駁梨汁"
+				},
+				{
+					"id": "189890068",
+					"name": "Bitter Melon and Apple Juice-涼瓜蘋果汁"
+				},
+				{
+					"id": "189890069",
+					"name": "Lychee Juice-荔枝汁"
+				},
+				{
+					"id": "189890070",
+					"name": "Apple Milkshake (Whole Milk)-蘋果奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890071",
+					"name": "Apple Milkshake (Skimmed Milk)-蘋果奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890072",
+					"name": "Orange Milkshake (Whole Milk)-鮮橙奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890073",
+					"name": "Orange Milkshake (Skimmed Milk)-鮮橙奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890074",
+					"name": "Melon Milkshake (Whole Milk)-蜜瓜奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890075",
+					"name": "Melon Milkshake (Skimmed Milk)-蜜瓜奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890076",
+					"name": "Pomelo Milkshake (Whole Milk)-西柚奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890077",
+					"name": "Pomelo Milkshake (Skimmed Milk)-西柚奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890078",
+					"name": "Pear Milk Shake (Whole Milk)-雪梨奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890079",
+					"name": "Pear Milkshake (Skimmed Milk)-雪梨奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890080",
+					"name": "Lemon Milkshake (Whole Milk)-檸檬奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890081",
+					"name": "Lemon Milkshake (Skimmed Milk)-檸檬奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890082",
+					"name": "Grape Milkshake (Whole Milk)-提子奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890083",
+					"name": "Grape Milkshake (Skimmed Milk)-提子奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890084",
+					"name": "Pear Milkshake (Whole Milk)-啤梨奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890085",
+					"name": "Pear Milkshake (Skimmed Milk)-啤梨奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890086",
+					"name": "Starfruit Milkshake (Whole Milk)-楊桃奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890087",
+					"name": "Starfruit Milkshake (Skimmed Milk)-楊桃奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890088",
+					"name": "Celery Milkshake (Whole Milk)-西芹奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890089",
+					"name": "Celery Milkshake (Skimmed Milk)-西芹奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890090",
+					"name": "Tomato Milkshake (Whole Milk)-蕃茄奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890091",
+					"name": "Tomato Milkshake (Skimmed Milk)-蕃茄奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890092",
+					"name": "Mango Milkshake (Whole Milk)-芒果奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890093",
+					"name": "Mango Milkshake (Skimmed Milk)-芒果奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890094",
+					"name": "Papaya Milkshake (Whole Milk)-木瓜奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890095",
+					"name": "Papaya Milkshake (Skimmed Milk)-木瓜奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890096",
+					"name": "Coconut Milkshake (Whole Milk)-椰子奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890097",
+					"name": "Coconut Milkshake (Skimmed Milk)-椰子奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890098",
+					"name": "Carrot Milkshake (Whole Milk)-甘筍奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890099",
+					"name": "Carrot Milkshake (Skimmed Milk)-甘筍奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890100",
+					"name": "Pomegranate Milkshake (Whole Milk)-石榴奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890101",
+					"name": "Pomegranate Milkshake (Skimmed Milk)-石榴奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890102",
+					"name": "Watermelon Milkshake (Whole Milk)-西瓜奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890103",
+					"name": "Watermelon Milkshake (Skimmed Milk)-西瓜奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890104",
+					"name": "Banana Milkshake (Whole Milk)-香蕉奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890105",
+					"name": "Banana Milkshake (Skimmed Milk)-香蕉奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890106",
+					"name": "Pineapple Milkshake (Whole Milk)-菠蘿奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890107",
+					"name": "Pineapple Milkshake (Skimmed Milk)-菠蘿奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890108",
+					"name": "Peach Milkshake (Whole Milk)-蜜桃奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890109",
+					"name": "Peach Milkshake (Skimmed Milk)-蜜桃奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890110",
+					"name": "Dragon Fruit Milkshake (Whole Milk)-火龍果奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890111",
+					"name": "Dragon Fruit Milkshake (Skimmed Milk)-火龍果奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890112",
+					"name": "Kiwi Milkshake (Whole Milk)-奇異果奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890113",
+					"name": "Kiwi Milkshake (Skimmed Milk)-奇異果奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890114",
+					"name": "Musk Melon Milkshake (Whole Milk)-皺紋瓜奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890115",
+					"name": "Cantaloupe Milkshake (Skimmed MIlk)-皺紋瓜奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890116",
+					"name": "Muskmelon Milkshake (Whole Milk)-哈密瓜奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890117",
+					"name": "Muskmelon Milkshake (Skimmed Milk)-哈密瓜奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890118",
+					"name": "Nectarine Milkshake (Whole Milk)-桃駁梨奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890119",
+					"name": "Nectarine Milkshake (Skimmed Milk)-桃駁梨奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890120",
+					"name": "Strawberry Milkshake (Whole Milk)-士多啤梨奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890121",
+					"name": "Strawberry Milkshake (Skimmed Milk)-士多啤梨奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890122",
+					"name": "Bitter Melon and Apple Milkshake -涼瓜蘋果奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890123",
+					"name": "Bitter Melon and Apple Milkshake (Skimmed Milk)-涼瓜蘋果奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890124",
+					"name": "Lychee Milkshake (Whole Milk)-荔枝奶昔 (全脂奶)"
+				},
+				{
+					"id": "189890125",
+					"name": "Lychee Milkshake (Skimmed Milk)-荔枝奶昔 (脫脂奶)"
+				},
+				{
+					"id": "189890126",
+					"name": "Hot Coffee-熱咖啡"
+				},
+				{
+					"id": "189890127",
+					"name": "Iced Coffee-凍咖啡"
+				},
+				{
+					"id": "189890128",
+					"name": "Hot Milk Tea-熱奶茶"
+				},
+				{
+					"id": "189890129",
+					"name": "Iced Milk Tea-凍奶茶"
+				},
+				{
+					"id": "189890130",
+					"name": "Hot Coffee with Milk Tea-熱鴛鴦"
+				},
+				{
+					"id": "189890131",
+					"name": "Iced Coffee with Milk Tea-凍鴛鴦"
+				},
+				{
+					"id": "189890132",
+					"name": "Hot Fresh Milk-熱鮮奶"
+				},
+				{
+					"id": "189890133",
+					"name": "Iced Fresh Milk-凍鮮奶"
+				},
+				{
+					"id": "189890134",
+					"name": "Hot Ginger Tea-熱薑茶"
+				},
+				{
+					"id": "189890135",
+					"name": "Hot Lemon Tea-熱檸檬茶"
+				},
+				{
+					"id": "189890136",
+					"name": "Iced Lemon Tea-凍檸檬茶"
+				},
+				{
+					"id": "189890137",
+					"name": "Hot Lemon Water-熱檸檬水"
+				},
+				{
+					"id": "189890138",
+					"name": "Iced Lemon Water-凍檸檬水"
+				},
+				{
+					"id": "189890139",
+					"name": "Hot Ribena-熱利賓納"
+				},
+				{
+					"id": "189890140",
+					"name": "Iced Ribena-凍利賓納"
+				},
+				{
+					"id": "189890141",
+					"name": "Hot Horlicks-熱好立克"
+				},
+				{
+					"id": "189890142",
+					"name": "Iced Horlicks-凍好立克"
+				},
+				{
+					"id": "189890143",
+					"name": "Hot Ovaltine-熱阿華田"
+				},
+				{
+					"id": "189890144",
+					"name": "Iced Ovaltine-凍阿華田"
+				},
+				{
+					"id": "189890145",
+					"name": "Hot Almond Milk-熱杏仁霜"
+				},
+				{
+					"id": "189890146",
+					"name": "Iced Almond Milk-凍杏仁霜"
+				},
+				{
+					"id": "189890147",
+					"name": "Hot Honey Citron Tea-熱柚子蜜"
+				},
+				{
+					"id": "189890148",
+					"name": "Iced Honey Citron Tea-凍柚子蜜"
+				},
+				{
+					"id": "189890149",
+					"name": "Hot Citrus Honey-熱柑桔蜜"
+				},
+				{
+					"id": "189890150",
+					"name": "Iced Citrus Honey-凍柑桔蜜"
+				},
+				{
+					"id": "189890151",
+					"name": "Hot Goji Berry Honey-熱杞子蜜"
+				},
+				{
+					"id": "189890152",
+					"name": "Iced Goji Berry Honey-凍杞子蜜"
+				},
+				{
+					"id": "189890153",
+					"name": "Hot Red Dates Tea-熱紅棗茶"
+				},
+				{
+					"id": "189890154",
+					"name": "Iced Red Dates Tea-凍紅棗茶"
+				},
+				{
+					"id": "189890155",
+					"name": "Iced Lemon 7 Up-凍檸檬七喜"
+				},
+				{
+					"id": "189890156",
+					"name": "Hot Lemon Coke-熱檸檬可樂"
+				},
+				{
+					"id": "189890157",
+					"name": "Iced Lemon Coke-凍檸檬可樂"
+				},
+				{
+					"id": "189890158",
+					"name": "Hot Coke with Ginger and Lemon-熱檸檬可樂加薑"
+				},
+				{
+					"id": "189890159",
+					"name": "Hot Watercress Honey-熱西洋菜蜜"
+				},
+				{
+					"id": "189890160",
+					"name": "Iced Watercress Honey-凍西洋菜蜜"
+				},
+				{
+					"id": "189890161",
+					"name": "Hot Watercress Honey with Lemon-熱檸檬西洋菜蜜"
+				},
+				{
+					"id": "189890162",
+					"name": "Iced Watercress Honey with Lemon-凍檸檬西洋菜蜜"
+				},
+				{
+					"id": "189890163",
+					"name": "Hot Chrysanthemum Honey-熱蜂蜜菊花露"
+				},
+				{
+					"id": "189890164",
+					"name": "Iced Chrysanthemum Honey-凍蜂蜜菊花露"
+				},
+				{
+					"id": "189890165",
+					"name": "Hot Pear and Honey Tea-熱蜂蜜梨茶"
+				},
+				{
+					"id": "189890166",
+					"name": "Iced Honey Pear Tea-凍蜂蜜梨茶"
+				},
+				{
+					"id": "189890167",
+					"name": "Hot Lime and Mandarin Honey-熱蜂蜜青檸柑桔"
+				},
+				{
+					"id": "189890168",
+					"name": "Iced Lime and Mandarin Honey-凍蜂蜜青檸柑桔"
+				},
+				{
+					"id": "189890169",
+					"name": "Hot Rose Soda-熱玫瑰花釀"
+				},
+				{
+					"id": "189890170",
+					"name": "Iced Rose Honey Drink-凍玫瑰花釀"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "28358640",
+			"name": "Sandwich with 2 Toppings and Jaffle with 2 Toppings - Toppings-雙拼三文治及雙拼飛碟多士 - 配料",
+			"modifierOptions": [
+				{
+					"id": "189889862",
+					"name": "Sausage-香腸"
+				},
+				{
+					"id": "189889863",
+					"name": "Ham-火腿"
+				},
+				{
+					"id": "189889864",
+					"name": "Cheese-芝士"
+				},
+				{
+					"id": "189889865",
+					"name": "Fried Egg-煎蛋"
+				},
+				{
+					"id": "189889866",
+					"name": "Chicken-雞肉"
+				},
+				{
+					"id": "189889867",
+					"name": "Hard Boiled Egg-烚蛋"
+				},
+				{
+					"id": "189889868",
+					"name": "Cucumber-青瓜"
+				},
+				{
+					"id": "189889869",
+					"name": "Tomato-蕃茄"
+				},
+				{
+					"id": "189889870",
+					"name": "Pineapple-菠蘿"
+				},
+				{
+					"id": "189889871",
+					"name": "Mango-芒果"
+				},
+				{
+					"id": "189889872",
+					"name": "Mushrooms-蘑菇"
+				},
+				{
+					"id": "189889873",
+					"name": "Lettuce-生菜"
+				},
+				{
+					"id": "189889874",
+					"name": "Banana-香蕉"
+				},
+				{
+					"id": "189889875",
+					"name": "Peanuts-花生"
+				},
+				{
+					"id": "189889876",
+					"name": "Imitation Crab Stick-蟹柳"
+				},
+				{
+					"id": "189889877",
+					"name": "Luncheon Meat-午餐肉"
+				},
+				{
+					"id": "189889878",
+					"name": "Pork Patty-豬柳扒"
+				},
+				{
+					"id": "189889879",
+					"name": "Tuna-吞拿魚"
+				},
+				{
+					"id": "189889880",
+					"name": "Corned Beef-鹹牛肉"
+				},
+				{
+					"id": "189889881",
+					"name": "Corn Salad-粟米沙律"
+				},
+				{
+					"id": "189889882",
+					"name": "Egg Salad-雞蛋沙律"
+				},
+				{
+					"id": "189889883",
+					"name": "Smoked Duck Breast-煙鴨胸"
+				}
+			],
+			"minSelection": 2,
+			"maxSelection": 2
+		},
+		{
+			"id": "28358641",
+			"name": "Sandwich with 2 Toppings and Jaffle with 2 Toppings - Extra Toppings-雙拼三文治及雙拼飛碟多士 - 另加配料",
+			"modifierOptions": [
+				{
+					"id": "189889884",
+					"name": "Sausage-香腸"
+				},
+				{
+					"id": "189889885",
+					"name": "Ham-火腿"
+				},
+				{
+					"id": "189889886",
+					"name": "Cheese-芝士"
+				},
+				{
+					"id": "189889887",
+					"name": "Fried Egg-煎蛋"
+				},
+				{
+					"id": "189889888",
+					"name": "Chicken-雞肉"
+				},
+				{
+					"id": "189889889",
+					"name": "Hard Boiled Egg-烚蛋"
+				},
+				{
+					"id": "189889890",
+					"name": "Cucumber-青瓜"
+				},
+				{
+					"id": "189889891",
+					"name": "Tomato-蕃茄"
+				},
+				{
+					"id": "189889892",
+					"name": "Pineapple-菠蘿"
+				},
+				{
+					"id": "189889893",
+					"name": "Mango-芒果"
+				},
+				{
+					"id": "189889894",
+					"name": "Mushrooms-蘑菇"
+				},
+				{
+					"id": "189889895",
+					"name": "Lettuce-生菜"
+				},
+				{
+					"id": "189889896",
+					"name": "Banana-香蕉"
+				},
+				{
+					"id": "189889897",
+					"name": "Peanuts-花生"
+				},
+				{
+					"id": "189889898",
+					"name": "Imitation Crab Stick-蟹柳"
+				},
+				{
+					"id": "189889899",
+					"name": "Luncheon Meat-午餐肉"
+				},
+				{
+					"id": "189889900",
+					"name": "Pork Patty-豬柳扒"
+				},
+				{
+					"id": "189889901",
+					"name": "Tuna-吞拿魚"
+				},
+				{
+					"id": "189889902",
+					"name": "Corned Beef-鹹牛肉"
+				},
+				{
+					"id": "189889903",
+					"name": "Corn Salad-粟米沙律"
+				},
+				{
+					"id": "189889904",
+					"name": "Egg Salad-雞蛋沙律"
+				},
+				{
+					"id": "189889905",
+					"name": "Smoked Duck Breast-煙鴨胸"
+				}
+			],
+			"minSelection": 0,
+			"maxSelection": 22
+		},
+		{
+			"id": "28358639",
+			"name": "Toast - Condiment-各式多士 - 抹醬",
+			"modifierOptions": [
+				{
+					"id": "189889856",
+					"name": "Condensed Milk and Butter-奶油"
+				},
+				{
+					"id": "189889857",
+					"name": "Fresh Butter and Jam-油占"
+				},
+				{
+					"id": "189889858",
+					"name": "Peanut Butter and Jam-醬占"
+				},
+				{
+					"id": "189889859",
+					"name": "Condensed Milk and Jam-奶占"
+				},
+				{
+					"id": "189889860",
+					"name": "Fresh Butter and Peanut Butter-油醬"
+				},
+				{
+					"id": "189889861",
+					"name": "Fresh Butter-鮮油"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "28358624",
+			"name": "Taiwanese Beverage - Add On Toppings-台式飲品 - 另加配料",
+			"modifierOptions": [
+				{
+					"id": "189889757",
+					"name": "Malt-胚芽"
+				},
+				{
+					"id": "189889758",
+					"name": "Snow Fragrance-雪香"
+				}
+			],
+			"minSelection": 0,
+			"maxSelection": 2
+		},
+		{
+			"id": "28358604",
+			"name": "Fresh Fruit Juice and Milkshake Combo - Fruits-雙拼鮮果汁及雙拼奶昔 - 水果",
+			"modifierOptions": [
+				{
+					"id": "189889353",
+					"name": "Apple-蘋果"
+				},
+				{
+					"id": "189889354",
+					"name": "Orange-鮮橙"
+				},
+				{
+					"id": "189889355",
+					"name": "Melon-蜜瓜"
+				},
+				{
+					"id": "189889356",
+					"name": "Pomelo-西柚"
+				},
+				{
+					"id": "189889357",
+					"name": "Pear-雪梨"
+				},
+				{
+					"id": "189889358",
+					"name": "Lemon-檸檬"
+				},
+				{
+					"id": "189889359",
+					"name": "Grape-提子"
+				},
+				{
+					"id": "189889360",
+					"name": "Pear-啤梨"
+				},
+				{
+					"id": "189889361",
+					"name": "Star Fruits-楊桃"
+				},
+				{
+					"id": "189889362",
+					"name": "Celery-西芹"
+				},
+				{
+					"id": "189889363",
+					"name": "Tomato-蕃茄"
+				},
+				{
+					"id": "189889364",
+					"name": "Mango-芒果"
+				},
+				{
+					"id": "189889365",
+					"name": "Papaya-木瓜"
+				},
+				{
+					"id": "189889366",
+					"name": "Coconut-椰子"
+				},
+				{
+					"id": "189889367",
+					"name": "Carrot-甘筍"
+				},
+				{
+					"id": "189889368",
+					"name": "Pomegranate-石榴"
+				},
+				{
+					"id": "189889369",
+					"name": "Watermelon-西瓜"
+				},
+				{
+					"id": "189889370",
+					"name": "Banana-香蕉"
+				},
+				{
+					"id": "189889371",
+					"name": "Pineapple-菠蘿"
+				},
+				{
+					"id": "189889372",
+					"name": "Peach-蜜桃"
+				},
+				{
+					"id": "189889373",
+					"name": "Dragon Fruit-火龍果"
+				},
+				{
+					"id": "189889374",
+					"name": "Kiwi-奇異果"
+				},
+				{
+					"id": "189889375",
+					"name": "Cantaloupe-皺紋瓜"
+				},
+				{
+					"id": "189889376",
+					"name": "Muskmelon-哈密瓜"
+				},
+				{
+					"id": "189889377",
+					"name": "Nectarine-桃駁梨"
+				},
+				{
+					"id": "189889378",
+					"name": "Strawberry-士多啤梨"
+				},
+				{
+					"id": "189915147",
+					"name": "Lychee-荔枝"
+				}
+			],
+			"minSelection": 2,
+			"maxSelection": 2
+		},
+		{
+			"id": "28358648",
+			"name": "Signature Fresh Fruit Iced Beverage - Juice-特色鮮果凍飲 - 果汁",
+			"modifierOptions": [
+				{
+					"id": "189890171",
+					"name": "Apple Juice-蘋果汁"
+				},
+				{
+					"id": "189890172",
+					"name": "Orange Juice-鮮橙汁"
+				},
+				{
+					"id": "189890173",
+					"name": "Melon Juice-蜜瓜汁"
+				},
+				{
+					"id": "189890174",
+					"name": "Pomelo Juice-西柚汁"
+				},
+				{
+					"id": "189890175",
+					"name": "Pear Juice-雪梨汁"
+				},
+				{
+					"id": "189890176",
+					"name": "Lemon Juice-檸檬汁"
+				},
+				{
+					"id": "189890177",
+					"name": "Grape Juice-提子汁"
+				},
+				{
+					"id": "189890178",
+					"name": "Pear Juice-啤梨汁"
+				},
+				{
+					"id": "189890179",
+					"name": "Star Fruit Juice-楊桃汁"
+				},
+				{
+					"id": "189890180",
+					"name": "Celery Juice-西芹汁"
+				},
+				{
+					"id": "189890181",
+					"name": "Tomato Juice-蕃茄汁"
+				},
+				{
+					"id": "189890182",
+					"name": "Mango Juice-芒果汁"
+				},
+				{
+					"id": "189890183",
+					"name": "Papaya Juice-木瓜汁"
+				},
+				{
+					"id": "189890184",
+					"name": "Coconut Juice-椰子汁"
+				},
+				{
+					"id": "189890185",
+					"name": "Carrot Juice-甘筍汁"
+				},
+				{
+					"id": "189890186",
+					"name": "Pomegranate Juice-石榴汁"
+				},
+				{
+					"id": "189890187",
+					"name": "Watermelon Juice-西瓜汁"
+				},
+				{
+					"id": "189890188",
+					"name": "Banana Juice-香蕉汁"
+				},
+				{
+					"id": "189890189",
+					"name": "Pineapple Juice-菠蘿汁"
+				},
+				{
+					"id": "189890190",
+					"name": "Peach Juice-蜜桃汁"
+				},
+				{
+					"id": "189890191",
+					"name": "Dragon Fruit Juice-火龍果汁"
+				},
+				{
+					"id": "189890192",
+					"name": "Kiwi Juice-奇異果汁"
+				},
+				{
+					"id": "189890193",
+					"name": "Cantaloupe Juice-皺紋瓜汁"
+				},
+				{
+					"id": "189890194",
+					"name": "Muskmelon Juice-哈密瓜汁"
+				},
+				{
+					"id": "189890195",
+					"name": "Nectarine Juice-桃駁梨汁"
+				},
+				{
+					"id": "189890197",
+					"name": "Bitter Melon and Apple Juice-涼瓜蘋果汁"
+				},
+				{
+					"id": "189890198",
+					"name": "Lychee Juice-荔枝汁"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "28358638",
+			"name": "Sandwich and Toastie - Loaf Bread or Wheat Bread-三文治及飛碟多士 - 白方包或麥包",
+			"modifierOptions": [
+				{
+					"id": "189889844",
+					"name": "Loaf Bread-白方包"
+				},
+				{
+					"id": "189889845",
+					"name": "Wheat Bread-麥包"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		},
+		{
+			"id": "28358605",
+			"name": "Milkshake - Whole Milk or Skimmed Milk-奶昔 - 全脂奶或脫脂奶",
+			"modifierOptions": [
+				{
+					"id": "189889386",
+					"name": "Whole Milk-全脂奶"
+				},
+				{
+					"id": "189889387",
+					"name": "Skimmed Milk-脫脂奶"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		}
+	]
+}

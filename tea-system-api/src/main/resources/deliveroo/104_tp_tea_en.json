@@ -1,0 +1,582 @@
+{
+    "categories": [{
+            "id": "808130",
+            "name": "Snacks"
+        }, {
+            "id": "542442",
+            "name": "Summer Favorites"
+        }, {
+            "id": "1009328",
+            "name": "Crema"
+        }, {
+            "id": "250781",
+            "name": "Tea Latte"
+        }, {
+            "id": "250779",
+            "name": "Brown Sugar Series"
+        }, {
+            "id": "542447",
+            "name": "Oat Series"
+        }, {
+            "id": "250782",
+            "name": "Milk Tea"
+        }, {
+            "id": "250784",
+            "name": "Fresh Blended Tea"
+        }, {
+            "id": "250785",
+            "name": "Flavored Tea"
+        }, {
+            "id": "250783",
+            "name": "Original Tea"
+        }
+    ],
+    "items": [{
+            "id": "150120025",
+            "name": "Spicy Tuna Toast",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "150120026",
+            "name": "Tuna Salad Toast",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "150302705",
+            "name": "Hong Kong Style Fish Siu Mai (8 pcs)",
+            "modifierGroupIds": ["28458768", "28458767"],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "151172958",
+            "name": "Taiwanese Popcorn Chicken",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "150302706",
+            "name": "Taiwanese Strong Flavour Beef Balls (4 pcs)",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "161857267",
+            "name": "Taiwanese Strong Flavor Pork Balls (4 pcs) ",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "152405503",
+            "name": "Taiwanese Cuttlefish Balls (4 pcs)",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "158493751",
+            "name": "Taiwanese Original Flavour Sausage",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "158493752",
+            "name": "Taiwanese Garlic Flavour Sausage",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "158493753",
+            "name": "Taiwanese Black Pepper Flavour Sausage ",
+            "modifierGroupIds": [],
+            "categoryId": "808130",
+            "available": true
+        }, {
+            "id": "39527394",
+            "name": "Mulberry Fruit Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142557", "25142554"],
+            "categoryId": "542442",
+            "available": true
+        }, {
+            "id": "150338833",
+            "name": "Passion Fruit Mulberry Smoothies (Iced)",
+            "modifierGroupIds": ["25142563", "25142557"],
+            "categoryId": "542442",
+            "available": true
+        }, {
+            "id": "155283994",
+            "name": "Crema Green Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "155283995",
+            "name": "Crema Black Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "155283996",
+            "name": "Crema Tieguanyin Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "155283997",
+            "name": "Crema Golden Oolong Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "159209394",
+            "name": "Chocolate Oreo Tieguanyin Milk Tea with Crema",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "1009328",
+            "available": true
+        }, {
+            "id": "2273577",
+            "name": "Black Tea Latte",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273581",
+            "name": "Black Tea Latte with Pearls",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273578",
+            "name": "Premium Jasmine Green Tea Latte",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273582",
+            "name": "Premium Jasmine Green Tea Latte with Pearls",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273576",
+            "name": "Tieguanyin Tea Latte",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273583",
+            "name": "Tieguanyin Tea Latte with Pearls",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273580",
+            "name": "Black Tea Latte with Red Beans (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273579",
+            "name": "Black Tea Latte with Pearls and Red Beans (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273584",
+            "name": "Taro Premium Jasmine Green Tea Latte",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273585",
+            "name": "Taro Black Tea Latte",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273586",
+            "name": "Taro Premium Jasmine Green Tea Latte with Pearls",
+            "modifierGroupIds": ["25142563", "25142557", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273587",
+            "name": "Taro Black Tea Latte with Pearls",
+            "modifierGroupIds": ["25142563", "25142557", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273589",
+            "name": "Winter Melon Latte",
+            "modifierGroupIds": ["25142563", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273590",
+            "name": "Winter Melon Latte with Pearls",
+            "modifierGroupIds": ["25142563", "25142554"],
+            "categoryId": "250781",
+            "available": true
+        }, {
+            "id": "2273565",
+            "name": "Brown Sugar Milk Tea (Iced)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273566",
+            "name": "Brown Sugar Milk Tea with Agar (Iced)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273567",
+            "name": "Brown Sugar Milk Tea with Soy Milk (Iced)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273568",
+            "name": "Brown Sugar Milk Tea with Soy Milk and Agar (Iced)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273563",
+            "name": "Brown Sugar Tieguanyin Tea Latte (Iced)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "2273564",
+            "name": "Brown Sugar Tieguanyin Tea Latte with Agar (Iced)",
+            "modifierGroupIds": ["25142563", "28370792", "25142554"],
+            "categoryId": "250779",
+            "available": true
+        }, {
+            "id": "152405504",
+            "name": "Oat Black Milk Tea with Soy Milk",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "152405505",
+            "name": "Oat Black Tea Latte",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "152405506",
+            "name": "Oat Black Tea with Soy Milk",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "152405507",
+            "name": "Oat Tieguanyin Tea Latte",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "152405508",
+            "name": "Oat Black Milk Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "542447",
+            "available": true
+        }, {
+            "id": "2273592",
+            "name": "Classic Sugarcane Black Milk Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "2273591",
+            "name": "Black Milk Tea with Pearls",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "2273593",
+            "name": "Black Milk Tea with Soy Milk",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "152405509",
+            "name": "Golden Oolong Milk Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "159209395",
+            "name": "Chocolate Tieguanyin Milk Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250782",
+            "available": true
+        }, {
+            "id": "2273608",
+            "name": "Fresh Fruit Tea",
+            "modifierGroupIds": ["25142563", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273599",
+            "name": "Lemon Premium Jasmine Green Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273601",
+            "name": "Honey Lemon Drink (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142555"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273605",
+            "name": "Honey Lemon Drink with Aloe Vera (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142555"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273606",
+            "name": "Lemon Yakult Drink (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142555"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "3245135",
+            "name": "Yakult Drink with Apple and Passion Fruit (Iced)",
+            "modifierGroupIds": ["25142563", "25142554", "26438565"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "150338834",
+            "name": "Kung Fu Iced Lemon Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "152405510",
+            "name": "Golden Iced Oolong Tea with Lemon",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273604",
+            "name": "Winter Melon Lemon Drink (Iced)",
+            "modifierGroupIds": ["25142563", "25142554"],
+            "categoryId": "250784",
+            "available": true
+        }, {
+            "id": "2273609",
+            "name": "Honey Green Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142557", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273610",
+            "name": "Passion Fruit Jasmine Green Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142559", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273611",
+            "name": "Passion Fruit Jasmine Green Tea with Aloe Vera (Iced)",
+            "modifierGroupIds": ["25142563", "25142559", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273612",
+            "name": "Black Tea with Soy Milk",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "149088903",
+            "name": "Yakult Green Tea (Iced)",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273613",
+            "name": "Winter Melon Tieguanyin Tea",
+            "modifierGroupIds": ["25142563", "25142555"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273614",
+            "name": "Winter Melon Tieguanyin Tea with Pearls",
+            "modifierGroupIds": ["25142563", "25142555"],
+            "categoryId": "250785",
+            "available": true
+        }, {
+            "id": "2273594",
+            "name": "Classic Sugarcane Black Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250783",
+            "available": true
+        }, {
+            "id": "2273595",
+            "name": "Premium Jasmine Green Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250783",
+            "available": true
+        }, {
+            "id": "2273596",
+            "name": "Tieguanyin Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250783",
+            "available": true
+        }, {
+            "id": "152405511",
+            "name": "Golden Oolong Tea",
+            "modifierGroupIds": ["25142563", "25142556", "25142554"],
+            "categoryId": "250783",
+            "available": true
+        }
+    ],
+    "modifierGroups": [{
+            "id": "28458768",
+            "name": "Snack - Exclude Chili Oil",
+            "modifierOptions": [{
+                    "id": "191332600",
+                    "name": "Exclude Chili Oil"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142563",
+            "name": "Iced Drinks - Extra Toppings",
+            "modifierOptions": [{
+                    "id": "212203595",
+                    "name": "Pearls"
+                }, {
+                    "id": "26343591",
+                    "name": "Red Beans"
+                }, {
+                    "id": "212203596",
+                    "name": "Agar "
+                }, {
+                    "id": "190170531",
+                    "name": "Aloe Vera"
+                }, {
+                    "id": "194286349",
+                    "name": "Oat"
+                }, {
+                    "id": "203053739",
+                    "name": "Crema"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 6
+        }, {
+            "id": "28370792",
+            "name": "Brown Sugar Series - Brown Sugar Level",
+            "modifierOptions": [{
+                    "id": "190170579",
+                    "name": "Less Brown Sugar"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142559",
+            "name": "Drinks - Sweetness (0%)",
+            "modifierOptions": [{
+                    "id": "26343584",
+                    "name": "0% Sweetness"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142556",
+            "name": "Drinks - Sweetness",
+            "modifierOptions": [{
+                    "id": "26343573",
+                    "name": "0% Sweetness"
+                }, {
+                    "id": "26343574",
+                    "name": "30% Sweetness"
+                }, {
+                    "id": "26343575",
+                    "name": "50% Sweetness"
+                }, {
+                    "id": "26343576",
+                    "name": "80% Sweetness"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142557",
+            "name": "Drinks - Sweetness (0%/50%/80%)",
+            "modifierOptions": [{
+                    "id": "26343578",
+                    "name": "0% Sweetness"
+                }, {
+                    "id": "26343579",
+                    "name": "50% Sweetness"
+                }, {
+                    "id": "26343580",
+                    "name": "80% Sweetness"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142554",
+            "name": "Drinks - Ice Level (Less or Extra Ice)",
+            "modifierOptions": [{
+                    "id": "26343568",
+                    "name": "Less Ice"
+                }, {
+                    "id": "26343569",
+                    "name": "Extra Ice"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "28458767",
+            "name": "Snack - Exclude Soy Sauce",
+            "modifierOptions": [{
+                    "id": "191332597",
+                    "name": "Exclude Soy Sauce"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "25142555",
+            "name": "Drinks - Ice Level",
+            "modifierOptions": [{
+                    "id": "26343570",
+                    "name": "No Ice"
+                }, {
+                    "id": "26343571",
+                    "name": "Less Ice"
+                }, {
+                    "id": "26343572",
+                    "name": "Extra Ice"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "26438565",
+            "name": "Drinks - Sweetness (0%/80%)",
+            "modifierOptions": [{
+                    "id": "80572769",
+                    "name": "0% Sweetness"
+                }, {
+                    "id": "80572771",
+                    "name": "80% Sweetness"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }
+    ]
+}

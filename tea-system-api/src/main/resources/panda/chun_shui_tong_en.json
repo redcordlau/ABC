@@ -1,0 +1,2693 @@
+{
+    "status_code": 200,
+    "data": {
+        "chain": {
+            "id": 13693,
+            "name": "Chun Shui Tang",
+            "main_vendor_id": 57608,
+            "url_key": "chun-shui-tang",
+            "code": "ck0uc"
+        },
+        "city": {
+            "id": 14397,
+            "name": "Hong Kong",
+            "url_key": "hong-kong"
+        },
+        "customer_phone": "",
+        "id": 57716,
+        "code": "p6so",
+        "accepts_instructions": true,
+        "address": "Shop 102, 1/F, Cityplaza, 18 Taikoo Shing Road, Tai Koo",
+        "address_line2": "",
+        "budget": 2,
+        "deals": [],
+        "constraints": [],
+        "cuisines": [
+            {
+                "id": 39,
+                "name": "Asian",
+                "url_key": "asian",
+                "main": false
+            },
+            {
+                "id": 53,
+                "name": "Drinks",
+                "url_key": "beverages",
+                "main": false
+            },
+            {
+                "id": 120,
+                "name": "Taiwanese",
+                "url_key": "taiwanese",
+                "main": true
+            },
+            {
+                "id": 1078,
+                "name": "Bubble Tea",
+                "url_key": "bubble-tea",
+                "main": false
+            }
+        ],
+        "delivery_duration_range": {
+            "lower_limit_in_minutes": 10,
+            "upper_limit_in_minutes": 25
+        },
+        "pickup_duration_range": null,
+        "delivery_fee_source": "dps",
+        "description": "-",
+        "discounts": [],
+        "distance": 0.5826897,
+        "dynamic_pricing": {
+            "service_fee": {
+                "total": 0,
+                "type": "percentage",
+                "setup_value": 2.5,
+                "max_value": 5
+            },
+            "adjustments": {
+                "current_discount": 0,
+                "next_discount": {
+                    "is_free": false,
+                    "difference": 0,
+                    "discount": 0,
+                    "show_message": false,
+                    "progress_percentage": 100
+                }
+            },
+            "fleet_utilization": 0,
+            "customer_tag": {
+                "variant": "",
+                "tag": null,
+                "subscription_id": null
+            },
+            "price_reason": null,
+            "delivery_fee": null
+        },
+        "experiments": [
+            {
+                "experiment_id": "recommendation-products-elements",
+                "experiment_variation": "Control",
+                "is_participating": false
+            },
+            {
+                "experiment_id": "personalised-popular-recommendations-on-rdp",
+                "experiment_variation": "Control",
+                "is_participating": false
+            }
+        ],
+        "favorite": null,
+        "has_delivery_provider": true,
+        "hero_image": "https://images.deliveryhero.io/image/fd-hk/LH/p6so-hero.jpg",
+        "hero_listing_image": "https://images.deliveryhero.io/image/fd-hk/LH/p6so-listing.jpeg",
+        "is_active": true,
+        "is_delivery_enabled": true,
+        "is_new_until": "2025-06-08T00:00:00Z",
+        "is_pickup_enabled": true,
+        "is_premium": false,
+        "is_preorder_enabled": true,
+        "is_promoted": false,
+        "is_test": false,
+        "is_vat_disabled": false,
+        "is_vat_included_in_product_price": false,
+        "is_vat_visible": false,
+        "is_vat_included": false,
+        "is_voucher_enabled": true,
+        "is_super_vendor": true,
+        "latitude": 22.28687859,
+        "location": "",
+        "location_event": null,
+        "logo": "https://images.deliveryhero.io/image/fd-hk/hk-logos/p6so-logo.jpeg",
+        "longitude": 114.21673429,
+        "loyalty_percentage_amount": 0,
+        "loyalty_program_enabled": false,
+        "minimum_delivery_fee": 25,
+        "minimum_delivery_time": 20,
+        "minimum_order_amount": 80,
+        "minimum_pickup_time": 0,
+        "name": "Chun Shui Tang 春水堂 - City Plaza",
+        "original_delivery_fee": 0,
+        "payment_types": [],
+        "post_code": "X",
+        "primary_cuisine_id": 120,
+        "rating": 4.9,
+        "topic_ratings": null,
+        "review_number": 46,
+        "review_with_comment_number": 0,
+        "schedules": [
+            {
+                "id": 0,
+                "weekday": 1,
+                "opening_type": "delivering",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 2,
+                "opening_type": "delivering",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 3,
+                "opening_type": "delivering",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 4,
+                "opening_type": "delivering",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 5,
+                "opening_type": "delivering",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 6,
+                "opening_type": "delivering",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 7,
+                "opening_type": "delivering",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 1,
+                "opening_type": "pickup",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 2,
+                "opening_type": "pickup",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 3,
+                "opening_type": "pickup",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 4,
+                "opening_type": "pickup",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 5,
+                "opening_type": "pickup",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 6,
+                "opening_type": "pickup",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            },
+            {
+                "id": 0,
+                "weekday": 7,
+                "opening_type": "pickup",
+                "opening_time": "11:45",
+                "closing_time": "20:45"
+            }
+        ],
+        "service_fee": 0,
+        "service_fee_percentage_amount": 0,
+        "short_name": "Chun Shui Tang 春水堂 - City Plaza",
+        "small_order_fee": {
+            "hard_limit": 0,
+            "soft_limit": 80,
+            "small_order_fee_cap": 15,
+            "small_order_fee": 15
+        },
+        "special_days": [],
+        "tag": "",
+        "tags": null,
+        "trade_register_number": "10000000",
+        "url_key": "chun-shui-tang-chun-shui-tang-city-plaza",
+        "characteristics": {
+            "cuisines": [
+                {
+                    "id": 39,
+                    "name": "Asian",
+                    "url_key": "asian",
+                    "main": false
+                },
+                {
+                    "id": 53,
+                    "name": "Drinks",
+                    "url_key": "beverages",
+                    "main": false
+                },
+                {
+                    "id": 120,
+                    "name": "Taiwanese",
+                    "url_key": "taiwanese",
+                    "main": true
+                },
+                {
+                    "id": 1078,
+                    "name": "Bubble Tea",
+                    "url_key": "bubble-tea",
+                    "main": false
+                }
+            ],
+            "food_characteristics": [],
+            "primary_cuisine": {
+                "id": 120,
+                "name": "Taiwanese",
+                "url_key": "taiwanese",
+                "main": true
+            }
+        },
+        "vendor_legal_information": {
+            "legal_name": "Chun Shui Tang 春水堂 - City Plaza",
+            "address_line_1": "Shop 102, 1/F, Cityplaza, 18 Taikoo Shing Road, Tai Koo",
+            "trade_register_number": "10000000"
+        },
+        "vertical": "restaurants",
+        "vertical_segment": "restaurants",
+        "vertical_parent": "Restaurant",
+        "web_path": "https://www.foodpanda.hk/restaurant/p6so/chun-shui-tang-chun-shui-tang-city-plaza",
+        "is_partner_cashback_disabled": false,
+        "vertical_type_ids": [
+            "restaurants"
+        ],
+        "other_vendors_in_chain": 0,
+        "menus": [
+            {
+                "ab_sorting_applied": false,
+                "id": 1997367,
+                "code": "",
+                "name": "Untitled menu",
+                "description": "",
+                "type": "delivery",
+                "opening_time": "00:00:00",
+                "closing_time": "23:59:59",
+                "menu_categories": [
+                    {
+                        "id": 3747487,
+                        "code": "278533513",
+                        "name": "特別推薦 Special Recommendations",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964360,
+                                "code": "2513823352-278533513",
+                                "name": "蕃茄蜜凍飲",
+                                "description": "Tomato Honey Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823352/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770956,
+                                        "code": "2513823352-278533513",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 49,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571339
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571339,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964361,
+                                "code": "2513823407-278533513",
+                                "name": "愛玉檸檬綠茶",
+                                "description": "Lemon Jasmine Tea with Fig Jelly",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823407/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770957,
+                                        "code": "2513823407-278533513",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 49,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571340
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571340,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964362,
+                                "code": "2513823401-278533513",
+                                "name": "愛玉鐵觀音檸檬茶",
+                                "description": "Lemon Tieguanyin with Fig Jelly",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823401/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770958,
+                                        "code": "2513823401-278533513",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 49,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571340
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571340,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747490,
+                        "code": "278533507",
+                        "name": "台式湯品 Soup",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964375,
+                                "code": "2513823357-278533507",
+                                "name": "龍井四神湯",
+                                "description": "Szu-Shen Soup",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823357/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770971,
+                                        "code": "2513823357-278533507",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 79,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964376,
+                                "code": "2513823424-278533507",
+                                "name": "當歸藥膳湯",
+                                "description": "Chinese Herbal Soup",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823424/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770972,
+                                        "code": "2513823424-278533507",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 90,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747486,
+                        "code": "278533512",
+                        "name": "炸物 Deep Fried Dishes",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964355,
+                                "code": "2513823377-278533512",
+                                "name": "黃金香酥雞",
+                                "description": "Deep Fried Chicken",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964355.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770951,
+                                        "code": "2513823377-278533512",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 67,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "tags": [
+                                    "popular"
+                                ],
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964356,
+                                "code": "2513823408-278533512",
+                                "name": "金沙芋泥丸",
+                                "description": "Taro with Egg Custard Ball",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823408/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770952,
+                                        "code": "2513823408-278533512",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 63,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964357,
+                                "code": "2513823383-278533512",
+                                "name": "鹽酥雞翼",
+                                "description": "Deep Fried Chicken Wings",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964357.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770953,
+                                        "code": "2513823383-278533512",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 56,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964358,
+                                "code": "2513823400-278533512",
+                                "name": "黃金地瓜條 (素)",
+                                "description": "Fried Sweet Potato (Vegan)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964358.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770954,
+                                        "code": "2513823400-278533512",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 46,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964359,
+                                "code": "2513823421-278533512",
+                                "name": "鹽酥杏鮑菇 (素)",
+                                "description": "Deep Fried Mushroom (Vegan)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964359.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770955,
+                                        "code": "2513823421-278533512",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 53,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747488,
+                        "code": "278533511",
+                        "name": "台式小吃 Snacks",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964363,
+                                "code": "2513823389-278533511",
+                                "name": "麻辣青瓜 (辣,素)",
+                                "description": "Spicy Cucumber (Spicy, Vegan)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964363.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770959,
+                                        "code": "2513823389-278533511",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 53,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964364,
+                                "code": "2513823425-278533511",
+                                "name": "麻辣涼拌牛筋 (辣)",
+                                "description": "Spicy Beef Tendon (Spicy)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823425/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770960,
+                                        "code": "2513823425-278533511",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 65,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964365,
+                                "code": "2513823370-278533511",
+                                "name": "麻辣涼伴牛肚絲 (辣)",
+                                "description": "Spicy Beef Tripe (Spicy)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823370/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770961,
+                                        "code": "2513823370-278533511",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 56,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964366,
+                                "code": "2513823391-278533511",
+                                "name": "麻辣涼伴鴨舌 (辣)",
+                                "description": "Spicy Duck Tongue (Spicy)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823391/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770962,
+                                        "code": "2513823391-278533511",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 88,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964367,
+                                "code": "2513823380-278533511",
+                                "name": "魯肉飯（小碗）",
+                                "description": "Braised Meat Sauce with Rice (Small)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823380/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770963,
+                                        "code": "2513823380-278533511",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 41,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false,
+                                "most_liked": {
+                                    "likes": 6,
+                                    "total_count": 6,
+                                    "percentage": 100
+                                }
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747489,
+                        "code": "278533505",
+                        "name": "台式便當 Bento",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964368,
+                                "code": "2513823413-278533505",
+                                "name": "蒲燒鰻魚便當",
+                                "description": "Kabayaki Eel Bento",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823413/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770964,
+                                        "code": "2513823413-278533505",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 148,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964369,
+                                "code": "2513823373-278533505",
+                                "name": "慢煮豬手便當",
+                                "description": "Braised Pork Trotter Bento",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964369.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770965,
+                                        "code": "2513823373-278533505",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 106,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964370,
+                                "code": "2513823358-278533505",
+                                "name": "滷汁排骨便當",
+                                "description": "Soy Sauce Braised Pork Chop Bento",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964370.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770966,
+                                        "code": "2513823358-278533505",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 103,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964371,
+                                "code": "2513823371-278533505",
+                                "name": "鹽酥雞翼滷肉便當",
+                                "description": "Deep Fried Chicken Wings with Braised Meat Sauce Bento",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964371.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770967,
+                                        "code": "2513823371-278533505",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 114,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964372,
+                                "code": "2513823414-278533505",
+                                "name": "豬手滷肉便當",
+                                "description": "Braised Pork Trotter with Braised Meat Sauce Bento",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964372.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770968,
+                                        "code": "2513823414-278533505",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 114,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964373,
+                                "code": "2513823354-278533505",
+                                "name": "照燒雞排便當",
+                                "description": "Teriyaki Chicken Bento",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823354/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770969,
+                                        "code": "2513823354-278533505",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 103,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964374,
+                                "code": "2513823372-278533505",
+                                "name": "酥炸豬排配他他醬便當",
+                                "description": "Deep Fried Pork Chop with Tartar Sauce Bento",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823372/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770970,
+                                        "code": "2513823372-278533505",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 103,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747495,
+                        "code": "278533504",
+                        "name": "台式牛肉麵 Noodles",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964405,
+                                "code": "2513823415-278533504",
+                                "name": "御品三寶牛肉麵",
+                                "description": "Braised Beef Trio Noodles",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823415/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771001,
+                                        "code": "2513823415-278533504",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 125,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964406,
+                                "code": "2513823420-278533504",
+                                "name": "半筋半肉蕃茄牛肉麵",
+                                "description": "Tomato Beef Tendon Noodles",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823420/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771002,
+                                        "code": "2513823420-278533504",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 122,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "tags": [
+                                    "popular"
+                                ],
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964408,
+                                "code": "2513823395-278533504",
+                                "name": "紅燒牛肉麵（半筋半肉）",
+                                "description": "Braised Beef Noodles (Beef \u0026 Tendon)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823395/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771004,
+                                        "code": "2513823395-278533504",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 111,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "tags": [
+                                    "popular"
+                                ],
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964409,
+                                "code": "2513823363-278533504",
+                                "name": "麻辣牛肉麵（半筋半肉）",
+                                "description": "Spicy Beef Noodles (Beef \u0026 Tendon) (Spicy)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823363/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771005,
+                                        "code": "2513823363-278533504",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 111,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747493,
+                        "code": "278533510",
+                        "name": "台式滷物 Braised Dishes",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964384,
+                                "code": "2513823416-278533510",
+                                "name": "滷香拼盤",
+                                "description": "Marinated Platter",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964384.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770980,
+                                        "code": "2513823416-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 111,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964385,
+                                "code": "2513823359-278533510",
+                                "name": "招牌滷味豆干米血糕 (辣)",
+                                "description": "Braised Bean Curd \u0026 Rice Cake (Spicy)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964385.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770981,
+                                        "code": "2513823359-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 79,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964387,
+                                "code": "2513823362-278533510",
+                                "name": "慢煮豬手",
+                                "description": "Braised Pork Trotter",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823362/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770983,
+                                        "code": "2513823362-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 76,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964388,
+                                "code": "2513823397-278533510",
+                                "name": "滷香牛筋",
+                                "description": "Braised Beef Tendon",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964388.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770984,
+                                        "code": "2513823397-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 79,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964389,
+                                "code": "2513823392-278533510",
+                                "name": "滷香大腸",
+                                "description": "Braised Pig Intestine",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964389.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770985,
+                                        "code": "2513823392-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 67,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964390,
+                                "code": "2513823423-278533510",
+                                "name": "滷香牛肚",
+                                "description": "Braised Beef Tripe",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964390.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770986,
+                                        "code": "2513823423-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 67,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964391,
+                                "code": "2513823405-278533510",
+                                "name": "招牌豆干 (辣)",
+                                "description": "Signature Braised Bean Curd (Spicy)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823405/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770987,
+                                        "code": "2513823405-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 44,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964392,
+                                "code": "2513823374-278533510",
+                                "name": "招牌米血糕 (辣)",
+                                "description": "Signature Braised Rice Cake (Spicy)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/Products/188964392.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770988,
+                                        "code": "2513823374-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 44,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964395,
+                                "code": "2513823369-278533510",
+                                "name": "茶香肉燥娃娃菜",
+                                "description": "Braised Baby Cabbage with Meat Sauce",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823369/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770991,
+                                        "code": "2513823369-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 42,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964396,
+                                "code": "2513823376-278533510",
+                                "name": "茶香肉燥生菜",
+                                "description": "Braised Lettuce with Meat Sauce",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823376/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770992,
+                                        "code": "2513823376-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 42,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964397,
+                                "code": "2513823412-278533510",
+                                "name": "滷香雞蛋",
+                                "description": "Braised Egg (1 pc)",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823412/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770993,
+                                        "code": "2513823412-278533510",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 15,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747491,
+                        "code": "278533508",
+                        "name": "香港限定甜點 Hong Kong Exclusive Dessert",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964378,
+                                "code": "2513823360-278533508",
+                                "name": "珍珠熔岩蛋糕",
+                                "description": "Tieguanyin Tea Flavored Cake with Brown Sugar Pearl",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823360/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770974,
+                                        "code": "2513823360-278533508",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 78,
+                                        "topping_ids": [],
+                                        "topping_properties": [],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747492,
+                        "code": "278533503",
+                        "name": "原味茶 Pure Tea",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964379,
+                                "code": "2513823402-278533503",
+                                "name": "招牌紅茶",
+                                "description": "Signature Black Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823402/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770975,
+                                        "code": "2513823402-278533503",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 41,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571340
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571340,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964380,
+                                "code": "2513823403-278533503",
+                                "name": "翡翠凍飲",
+                                "description": "Jasmine Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823403/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770976,
+                                        "code": "2513823403-278533503",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 41,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571340
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571340,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964381,
+                                "code": "2513823399-278533503",
+                                "name": "鐵觀音凍飲",
+                                "description": "Tieguanyin Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823399/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770977,
+                                        "code": "2513823399-278533503",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 41,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571340
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571340,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964382,
+                                "code": "2513823364-278533503",
+                                "name": "珍珠綠茶",
+                                "description": "Pearl Jasmine Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823364/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770978,
+                                        "code": "2513823364-278533503",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 43,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571340
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571340,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747494,
+                        "code": "278533509",
+                        "name": "醇奶茶 Milk Tea",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964398,
+                                "code": "2513823366-278533509",
+                                "name": "香醇奶茶",
+                                "description": "Milk Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823366/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770994,
+                                        "code": "2513823366-278533509",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 42,
+                                        "topping_ids": [
+                                            35571335,
+                                            35571336,
+                                            35571337,
+                                            35571338
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571335,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571336,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964399,
+                                "code": "2513823390-278533509",
+                                "name": "珍珠奶茶",
+                                "description": "Pearl Milk Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823390/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770995,
+                                        "code": "2513823390-278533509",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 44,
+                                        "topping_ids": [
+                                            35571335,
+                                            35571336,
+                                            35571337,
+                                            35571338
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571335,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571336,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "tags": [
+                                    "popular"
+                                ],
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964400,
+                                "code": "2513823384-278533509",
+                                "name": "茉香奶茶",
+                                "description": "Jasmine Milk Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823384/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770996,
+                                        "code": "2513823384-278533509",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 44,
+                                        "topping_ids": [
+                                            35571335,
+                                            35571336,
+                                            35571337,
+                                            35571338
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571335,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571336,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964401,
+                                "code": "2513823406-278533509",
+                                "name": "胚芽奶茶",
+                                "description": "Wheat Germ Milk Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823406/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770997,
+                                        "code": "2513823406-278533509",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 44,
+                                        "topping_ids": [
+                                            35571335,
+                                            35571336,
+                                            35571337,
+                                            35571338
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571335,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571336,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964402,
+                                "code": "2513823378-278533509",
+                                "name": "鐵觀音奶茶",
+                                "description": "Tieguanyin Milk Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823378/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770998,
+                                        "code": "2513823378-278533509",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 44,
+                                        "topping_ids": [
+                                            35571335,
+                                            35571336,
+                                            35571337,
+                                            35571338
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571335,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571336,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964403,
+                                "code": "2513823394-278533509",
+                                "name": "珍珠茉香奶茶",
+                                "description": "Pearl Jasmine Milk Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823394/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190770999,
+                                        "code": "2513823394-278533509",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 46,
+                                        "topping_ids": [
+                                            35571335,
+                                            35571336,
+                                            35571337,
+                                            35571338
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571335,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571336,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "tags": [
+                                    "popular"
+                                ],
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964404,
+                                "code": "2513823422-278533509",
+                                "name": "珍珠鐵觀音奶茶",
+                                "description": "Pearl Tieguanyin Milk Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823422/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771000,
+                                        "code": "2513823422-278533509",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 46,
+                                        "topping_ids": [
+                                            35571336,
+                                            35571337,
+                                            35571338
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571336,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "tags": [
+                                    "popular"
+                                ],
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    },
+                    {
+                        "id": 3747496,
+                        "code": "278533506",
+                        "name": "調和茶 Flavored Tea",
+                        "description": "",
+                        "products": [
+                            {
+                                "id": 188964410,
+                                "code": "2513823355-278533506",
+                                "name": "蜂蜜綠茶",
+                                "description": "Honey Jasmine Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823355/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771006,
+                                        "code": "2513823355-278533506",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 41,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571340
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571340,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964411,
+                                "code": "2513823356-278533506",
+                                "name": "檸檬紅茶",
+                                "description": "Lemon Black Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823356/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771007,
+                                        "code": "2513823356-278533506",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 41,
+                                        "topping_ids": [
+                                            35571335,
+                                            35571336,
+                                            35571337,
+                                            35571338
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571335,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571336,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964412,
+                                "code": "2513823368-278533506",
+                                "name": "翡翠檸檬茶",
+                                "description": "Lemon Jasmine Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823368/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771008,
+                                        "code": "2513823368-278533506",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 44,
+                                        "topping_ids": [
+                                            35571337,
+                                            35571338,
+                                            35571340
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571340,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            },
+                            {
+                                "id": 188964413,
+                                "code": "2513823393-278533506",
+                                "name": "翡翠香柚茶",
+                                "description": "Pomelo Jasmine Tea",
+                                "master_category_id": 4,
+                                "file_path": "https://images.deliveryhero.io/image/fd-hk/vendor-migration/251392/2513823393/menu_item_image.jpg?width=%s",
+                                "is_sold_out": false,
+                                "is_express_item": false,
+                                "additives": [],
+                                "is_alcoholic_item": false,
+                                "sold_out_options": null,
+                                "dietary_attributes": {},
+                                "product_variations": [
+                                    {
+                                        "id": 190771009,
+                                        "code": "2513823393-278533506",
+                                        "remote_code": "",
+                                        "container_price": 0,
+                                        "price": 49,
+                                        "topping_ids": [
+                                            35571335,
+                                            35571337,
+                                            35571338,
+                                            35571339
+                                        ],
+                                        "topping_properties": [
+                                            {
+                                                "id": 35571335,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571337,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571338,
+                                                "use_original_price": true
+                                            },
+                                            {
+                                                "id": 35571339,
+                                                "use_original_price": true
+                                            }
+                                        ],
+                                        "unit_pricing": null,
+                                        "total_price": 0,
+                                        "dietary_attributes": {}
+                                    }
+                                ],
+                                "half_type": "",
+                                "is_bundle": false
+                            }
+                        ],
+                        "is_popular_category": false
+                    }
+                ],
+                "toppings": {
+                    "35571335": {
+                        "id": 35571335,
+                        "name": "請選擇熱/凍 Please Choose Hot/ Iced",
+                        "description": "",
+                        "quantity_minimum": 1,
+                        "quantity_maximum": 1,
+                        "options": [
+                            {
+                                "id": 568936111,
+                                "product_id": 188964424,
+                                "name": "Iced 冷飲",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": ""
+                            }
+                        ],
+                        "type": "choice-group"
+                    },
+                    "35571336": {
+                        "id": 35571336,
+                        "name": "請選擇冰度  Please Choose Ice Level (只適用於凍飲 Only Available For Iced Drinks)",
+                        "description": "",
+                        "quantity_minimum": 0,
+                        "quantity_maximum": 1,
+                        "options": [
+                            {
+                                "id": 568936112,
+                                "product_id": 188964416,
+                                "name": "Standard Ice 正常",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": ""
+                            },
+                            {
+                                "id": 568936113,
+                                "product_id": 188964428,
+                                "name": "Less Ice 少冰",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190771007,
+                                        190770995,
+                                        190770996,
+                                        190770997,
+                                        190770999,
+                                        190771000
+                                    ]
+                                }
+                            },
+                            {
+                                "id": 568936114,
+                                "product_id": 188964425,
+                                "name": "No Ice 去冰  (仍有小量碎冰 Still have slightly amount of ice)",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190770998,
+                                        190770994
+                                    ]
+                                }
+                            }
+                        ],
+                        "type": "choice-group"
+                    },
+                    "35571337": {
+                        "id": 35571337,
+                        "name": "請選擇糖度 Please Choose  Sweetness",
+                        "description": "",
+                        "quantity_minimum": 1,
+                        "quantity_maximum": 1,
+                        "options": [
+                            {
+                                "id": 568936115,
+                                "product_id": 188964419,
+                                "name": "Standard Sugar 正常",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": ""
+                            },
+                            {
+                                "id": 568936116,
+                                "product_id": 188964429,
+                                "name": "Less Sugar 少甜",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190770957,
+                                        190771007,
+                                        190770994,
+                                        190770997
+                                    ]
+                                }
+                            },
+                            {
+                                "id": 568936117,
+                                "product_id": 188964426,
+                                "name": "Slight Sugar 微甜",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190770998,
+                                        190771009,
+                                        190770995,
+                                        190771006,
+                                        190770976,
+                                        190770996,
+                                        190770956,
+                                        190770999,
+                                        190771000,
+                                        190770978,
+                                        190771008,
+                                        190770975,
+                                        190770958
+                                    ]
+                                }
+                            },
+                            {
+                                "id": 568936118,
+                                "product_id": 188964421,
+                                "name": "No Sugar 去甜",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": ""
+                            }
+                        ],
+                        "type": "choice-group"
+                    },
+                    "35571338": {
+                        "id": 35571338,
+                        "name": "加配項目  Addional Items",
+                        "description": "",
+                        "quantity_minimum": 0,
+                        "quantity_maximum": 3,
+                        "options": [
+                            {
+                                "id": 568936119,
+                                "product_id": 188964417,
+                                "name": "Pearls 珍珠",
+                                "description": "",
+                                "price": 6,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190770998,
+                                        190770996,
+                                        190770997,
+                                        190770999,
+                                        190770975
+                                    ]
+                                }
+                            },
+                            {
+                                "id": 568936120,
+                                "product_id": 188964414,
+                                "name": "Fig Jelly 愛玉",
+                                "description": "",
+                                "price": 6,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190771007,
+                                        190771009,
+                                        190770995,
+                                        190771006,
+                                        190771008
+                                    ]
+                                }
+                            },
+                            {
+                                "id": 568936121,
+                                "product_id": 188964415,
+                                "name": "Wheat Germ 胚芽",
+                                "description": "",
+                                "price": 6,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190771000
+                                    ]
+                                }
+                            }
+                        ],
+                        "type": "choice-group"
+                    },
+                    "35571339": {
+                        "id": 35571339,
+                        "name": "請選擇冰度  Please Choose Ice Level (只適用於凍飲 Only Available For Iced Drinks)",
+                        "description": "",
+                        "quantity_minimum": 0,
+                        "quantity_maximum": 1,
+                        "options": [
+                            {
+                                "id": 568936122,
+                                "product_id": 188964420,
+                                "name": "Standard Ice 正常",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": ""
+                            },
+                            {
+                                "id": 568936123,
+                                "product_id": 188964422,
+                                "name": "Less Ice 少冰",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190771009,
+                                        190770956
+                                    ]
+                                }
+                            }
+                        ],
+                        "type": "choice-group"
+                    },
+                    "35571340": {
+                        "id": 35571340,
+                        "name": "請選擇冰度  Please Choose Ice Level.",
+                        "description": "",
+                        "quantity_minimum": 1,
+                        "quantity_maximum": 1,
+                        "options": [
+                            {
+                                "id": 568936124,
+                                "product_id": 188964418,
+                                "name": "Standard Ice 正常",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": ""
+                            },
+                            {
+                                "id": 568936125,
+                                "product_id": 188964423,
+                                "name": "Less Ice 少冰",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": "",
+                                "variation_tag_map": {
+                                    "popular": [
+                                        190770957,
+                                        190771006,
+                                        190770976,
+                                        190770978,
+                                        190771008,
+                                        190770975,
+                                        190770958
+                                    ]
+                                }
+                            },
+                            {
+                                "id": 568936126,
+                                "product_id": 188964427,
+                                "name": "No Ice 去冰  (仍有小量碎冰 Still have slightly amount of ice)",
+                                "description": "",
+                                "price": 0,
+                                "remote_code": ""
+                            }
+                        ],
+                        "type": "choice-group"
+                    }
+                },
+                "tags": {
+                    "popular": {
+                        "name": "popular",
+                        "translation_keys": {
+                            "description": "NEXTGEN_POPULAR_CATEGORY_DESCRIPTION",
+                            "title": "NEXTGEN_POPULAR_DISH_TAG"
+                        },
+                        "elements": [
+                            "label",
+                            "category"
+                        ],
+                        "metadata": {
+                            "sorting": [
+                                188964408,
+                                188964404,
+                                188964355,
+                                188964406,
+                                188964403,
+                                188964399
+                            ]
+                        }
+                    }
+                },
+                "default_sold_out_options": [
+                    {
+                        "default": true,
+                        "option": "REFUND",
+                        "text": "NEXTGEN_SoldOutOptions_Refund"
+                    },
+                    {
+                        "default": false,
+                        "option": "CANCEL",
+                        "text": "NEXTGEN_SoldOutOptions_Cancel"
+                    },
+                    {
+                        "default": false,
+                        "option": "CALL_CUSTOMER",
+                        "text": "NEXTGEN_SoldOutOptions_CALL_CUSTOMER"
+                    }
+                ]
+            }
+        ],
+        "metadata": {
+            "is_delivery_available": true,
+            "is_pickup_available": true,
+            "available_in": null,
+            "has_discount": false,
+            "timezone": "Asia/Hong_Kong",
+            "events": [],
+            "close_reasons": [],
+            "is_flood_feature_closed": false
+        }
+    }
+}

@@ -1,0 +1,333 @@
+{
+	"categories": [
+		{
+			"id": "777679",
+			"name": "SANDWICH LUNCH BOXES - Sandwich + Fruit Salad + Cookie"
+		},
+		{
+			"id": "777793",
+			"name": "LUNCH SETS PACKAGES"
+		}
+	],
+	"items": [
+		{
+			"id": "148788184",
+			"name": "CURED HAM SANDWICH BOX - Meat Option",
+			"modifierGroupIds": [
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788185",
+			"name": "SALMON SANDWICH BOX - Fish Option",
+			"modifierGroupIds": [
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		{
+			"id": "148788186",
+			"name": "VEGETARIAN SANDWICH BOX - Vegetarian Option",
+			"modifierGroupIds": [
+			],
+			"categoryId": "777679",
+			"available": true
+		},
+		
+		{
+			"id": "148788256",
+			"name": "Yellow thai chicken curry with rice and baby vegetables",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788257",
+			"name": "Sole fish red curry with red rice and vegetables",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788258",
+			"name": "Bowl of Vegetarian Thai Yellow Tofu Curry with rice (Veg)",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788259",
+			"name": "Palak paneer with Basmati saffron rice (Veg)",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788297",
+			"name": "Red curry duck with rice noodles and eggplant",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788298",
+			"name": "Hunan cumin beef with Udon noodles",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788299",
+			"name": "Mustard and mushroom chicken with sweet mashed potatoes",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788300",
+			"name": "Burgundy beef with mashed potatoes",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788301",
+			"name": "Creamy Pearl Barley Risotto with truffle and portobello mushroom (Veg)",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788304",
+			"name": "Barramundi fillet with quinoa, tomato sauce and fresh basil",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788305",
+			"name": "Penne Pasta with tomato sauce, black olive and bell pepper roasted (Veg)",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		},
+		{
+			"id": "148788349",
+			"name": "French cured sausage with lentils and bacon",
+			"modifierGroupIds": [
+				"28358643",
+				"28358640",
+				"28358641",
+				"28358639"
+			],
+			"categoryId": "777793",
+			"available": true
+		}
+	],
+	"modifierGroups": [
+		{
+			"id": "28358643",
+			"name": "STARTERS",
+			"modifierOptions": [
+				{
+					"id": "189890042",
+					"name": "Green mix with French cured ham"
+				},
+				{
+					"id": "189890043",
+					"name": "Greek Salad with Kalamata olives and Feta"
+				},
+				{
+					"id": "189890044",
+					"name": "Caesar salad"
+				},
+				{
+					"id": "189890045",
+					"name": "Spanish Gazpacho"
+				},
+				{
+					"id": "189890046",
+					"name": "Sesame Soba noodle salad with egg"
+				},
+				{
+					"id": "189890047",
+					"name": "Cherry tomatoes with mozzarella, basil and pine nuts"
+				}
+			],
+			"minSelection": 0,
+			"maxSelection": 1
+		},
+		{
+			"id": "28358640",
+			"name": "DESSERTS",
+			"modifierOptions": [
+				{
+					"id": "189889862",
+					"name": "Chocolate Cream"
+				},
+				{
+					"id": "189889863",
+					"name": "Fresh Fruit Salad"
+				},
+				{
+					"id": "189889864",
+					"name": "Yogurt with red fruits and homemade nuts granola"
+				},
+				{
+					"id": "189889865",
+					"name": "Assortment of financiers, macarons and mini brownies"
+				},
+				{
+					"id": "189889866",
+					"name": "Yogurt, apple compote and granola"
+				},
+				{
+					"id": "189889867",
+					"name": "Coconut mango chia pudding"
+				},
+				{
+					"id": "189889868",
+					"name": "Red fruit oatmeal smoothie"
+				},
+				{
+					"id": "189889869",
+					"name": "Bakehouse Cookies"
+				},
+				{
+					"id": "189889870",
+					"name": "Red fruits Panna Cotta"
+				}
+			],
+			"minSelection": 0,
+			"maxSelection": 1
+		},
+		{
+			"id": "28358641",
+			"name": "Meal",
+			"modifierOptions": [
+				{
+					"id": "189889884",
+					"name": "Yellow thai chicken curry with rice and baby vegetables"
+				},
+				{
+					"id": "189889885",
+					"name": "Sole fish red curry with red rice and vegetables"
+				},
+				{
+					"id": "189889886",
+					"name": "Bowl of Vegetarian Thai Yellow Tofu Curry with rice (Veg)"
+				},
+				{
+					"id": "189889887",
+					"name": "Palak paneer with Basmati saffron rice (Veg)"
+				},
+				{
+					"id": "189889888",
+					"name": "Red curry duck with rice noodles and eggplant"
+				},
+				{
+					"id": "189889889",
+					"name": "Hunan cumin beef with Udon noodles"
+				},
+				{
+					"id": "189889890",
+					"name": "Mustard and mushroom chicken with sweet mashed potatoes"
+				},
+				{
+					"id": "189889891",
+					"name": "Burgundy beef with mashed potatoes"
+				},
+				{
+					"id": "189889892",
+					"name": "Creamy Pearl Barley Risotto with truffle and portobello mushroom (Veg)"
+				},
+				{
+					"id": "189889893",
+					"name": "Barramundi fillet with quinoa, tomato sauce and fresh basil"
+				},
+				{
+					"id": "189889894",
+					"name": "Penne Pasta with tomato sauce, black olive and bell pepper roasted (Veg)"
+				},
+				{
+					"id": "189889895",
+					"name": "French cured sausage with lentils and bacon"
+				}
+			],
+			"minSelection": 0,
+			"maxSelection": 1
+		},
+		{
+			"id": "28358639",
+			"name": "BOXES/JARS",
+			"modifierOptions": [
+				{
+					"id": "189889856",
+					"name": "Disposable Vegware Packaging"
+				},
+				{
+					"id": "189889857",
+					"name": "Reusable Glass Jars ($30)"
+				}
+			],
+			"minSelection": 1,
+			"maxSelection": 1
+		}
+	]
+}

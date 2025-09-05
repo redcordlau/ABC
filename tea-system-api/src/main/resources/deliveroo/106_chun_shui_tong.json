@@ -1,0 +1,227 @@
+{
+    "categories": [{
+            "id": "3747487",
+            "name": "特別推薦 Special Recommendations-特別推薦 Special Recommendations"
+        }, {
+            "id": "3747491",
+            "name": "香港限定甜點 Hong Kong Exclusive Dessert-香港限定甜點 Hong Kong Exclusive Dessert"
+        }, {
+            "id": "3747492",
+            "name": "原味茶 Pure Tea-原味茶 Pure Tea"
+        }, {
+            "id": "3747494",
+            "name": "醇奶茶 Milk Tea-醇奶茶 Milk Tea"
+        }, {
+            "id": "3747496",
+            "name": "調和茶 Flavored Tea-調和茶 Flavored Tea"
+        }
+    ],
+    "items": [{
+            "id": "188964360",
+            "name": "蕃茄蜜凍飲-蕃茄蜜凍飲",
+            "modifierGroupIds": ["35571339", "35571338", "35571337"],
+            "categoryId": "3747487",
+            "available": true
+        }, {
+            "id": "188964361",
+            "name": "愛玉檸檬綠茶-愛玉檸檬綠茶",
+            "modifierGroupIds": ["35571340", "35571338", "35571337"],
+            "categoryId": "3747487",
+            "available": true
+        }, {
+            "id": "188964362",
+            "name": "愛玉鐵觀音檸檬茶-愛玉鐵觀音檸檬茶",
+            "modifierGroupIds": ["35571340", "35571338", "35571337"],
+            "categoryId": "3747487",
+            "available": true
+        }, {
+            "id": "188964378",
+            "name": "珍珠熔岩蛋糕-珍珠熔岩蛋糕",
+            "modifierGroupIds": [],
+            "categoryId": "3747491",
+            "available": true
+        }, {
+            "id": "188964379",
+            "name": "招牌紅茶-招牌紅茶",
+            "modifierGroupIds": ["35571340", "35571338", "35571337"],
+            "categoryId": "3747492",
+            "available": true
+        }, {
+            "id": "188964380",
+            "name": "翡翠凍飲-翡翠凍飲",
+            "modifierGroupIds": ["35571340", "35571338", "35571337"],
+            "categoryId": "3747492",
+            "available": true
+        }, {
+            "id": "188964381",
+            "name": "鐵觀音凍飲-鐵觀音凍飲",
+            "modifierGroupIds": ["35571340", "35571338", "35571337"],
+            "categoryId": "3747492",
+            "available": true
+        }, {
+            "id": "188964382",
+            "name": "珍珠綠茶-珍珠綠茶",
+            "modifierGroupIds": ["35571340", "35571338", "35571337"],
+            "categoryId": "3747492",
+            "available": true
+        }, {
+            "id": "188964398",
+            "name": "香醇奶茶-香醇奶茶",
+            "modifierGroupIds": ["35571336", "35571335", "35571338", "35571337"],
+            "categoryId": "3747494",
+            "available": true
+        }, {
+            "id": "188964399",
+            "name": "珍珠奶茶-珍珠奶茶",
+            "modifierGroupIds": ["35571336", "35571335", "35571338", "35571337"],
+            "categoryId": "3747494",
+            "available": true
+        }, {
+            "id": "188964400",
+            "name": "茉香奶茶-茉香奶茶",
+            "modifierGroupIds": ["35571336", "35571335", "35571338", "35571337"],
+            "categoryId": "3747494",
+            "available": true
+        }, {
+            "id": "188964401",
+            "name": "胚芽奶茶-胚芽奶茶",
+            "modifierGroupIds": ["35571336", "35571335", "35571338", "35571337"],
+            "categoryId": "3747494",
+            "available": true
+        }, {
+            "id": "188964402",
+            "name": "鐵觀音奶茶-鐵觀音奶茶",
+            "modifierGroupIds": ["35571336", "35571335", "35571338", "35571337"],
+            "categoryId": "3747494",
+            "available": true
+        }, {
+            "id": "188964403",
+            "name": "珍珠茉香奶茶-珍珠茉香奶茶",
+            "modifierGroupIds": ["35571336", "35571335", "35571338", "35571337"],
+            "categoryId": "3747494",
+            "available": true
+        }, {
+            "id": "188964404",
+            "name": "珍珠鐵觀音奶茶-珍珠鐵觀音奶茶",
+            "modifierGroupIds": ["35571336", "35571338", "35571337"],
+            "categoryId": "3747494",
+            "available": true
+        }, {
+            "id": "188964410",
+            "name": "蜂蜜綠茶-蜂蜜綠茶",
+            "modifierGroupIds": ["35571340", "35571338", "35571337"],
+            "categoryId": "3747496",
+            "available": true
+        }, {
+            "id": "188964411",
+            "name": "檸檬紅茶-檸檬紅茶",
+            "modifierGroupIds": ["35571336", "35571335", "35571338", "35571337"],
+            "categoryId": "3747496",
+            "available": true
+        }, {
+            "id": "188964412",
+            "name": "翡翠檸檬茶-翡翠檸檬茶",
+            "modifierGroupIds": ["35571340", "35571338", "35571337"],
+            "categoryId": "3747496",
+            "available": true
+        }, {
+            "id": "188964413",
+            "name": "翡翠香柚茶-翡翠香柚茶",
+            "modifierGroupIds": ["35571339", "35571335", "35571338", "35571337"],
+            "categoryId": "3747496",
+            "available": true
+        }
+    ],
+    "modifierGroups": [{
+            "id": "35571340",
+            "name": "請選擇冰度  Please Choose Ice Level.-請選擇冰度  Please Choose Ice Level.",
+            "modifierOptions": [{
+                    "id": "568936124",
+                    "name": "Standard Ice 正常-Standard Ice 正常"
+                }, {
+                    "id": "568936125",
+                    "name": "Less Ice 少冰-Less Ice 少冰"
+                }, {
+                    "id": "568936126",
+                    "name": "No Ice 去冰  (仍有小量碎冰 Still have slightly amount of ice)-No Ice 去冰  (仍有小量碎冰 Still have slightly amount of ice)"
+                }
+            ],
+            "minSelection": 1,
+            "maxSelection": 1
+        }, {
+            "id": "35571339",
+            "name": "請選擇冰度  Please Choose Ice Level (只適用於凍飲 Only Available For Iced Drinks)-請選擇冰度  Please Choose Ice Level (只適用於凍飲 Only Available For Iced Drinks)",
+            "modifierOptions": [{
+                    "id": "568936122",
+                    "name": "Standard Ice 正常-Standard Ice 正常"
+                }, {
+                    "id": "568936123",
+                    "name": "Less Ice 少冰-Less Ice 少冰"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "35571336",
+            "name": "請選擇冰度  Please Choose Ice Level (只適用於凍飲 Only Available For Iced Drinks)-請選擇冰度  Please Choose Ice Level (只適用於凍飲 Only Available For Iced Drinks)",
+            "modifierOptions": [{
+                    "id": "568936112",
+                    "name": "Standard Ice 正常-Standard Ice 正常"
+                }, {
+                    "id": "568936113",
+                    "name": "Less Ice 少冰-Less Ice 少冰"
+                }, {
+                    "id": "568936114",
+                    "name": "No Ice 去冰  (仍有小量碎冰 Still have slightly amount of ice)-No Ice 去冰  (仍有小量碎冰 Still have slightly amount of ice)"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 1
+        }, {
+            "id": "35571335",
+            "name": "請選擇熱/凍 Please Choose Hot/ Iced-請選擇熱/凍 Please Choose Hot/ Iced",
+            "modifierOptions": [{
+                    "id": "568936111",
+                    "name": "Iced 冷飲-Iced 冷飲"
+                }
+            ],
+            "minSelection": 1,
+            "maxSelection": 1
+        }, {
+            "id": "35571338",
+            "name": "加配項目  Addional Items-加配項目  Addional Items",
+            "modifierOptions": [{
+                    "id": "568936119",
+                    "name": "Pearls 珍珠-Pearls 珍珠"
+                }, {
+                    "id": "568936120",
+                    "name": "Fig Jelly 愛玉-Fig Jelly 愛玉"
+                }, {
+                    "id": "568936121",
+                    "name": "Wheat Germ 胚芽-Wheat Germ 胚芽"
+                }
+            ],
+            "minSelection": 0,
+            "maxSelection": 3
+        }, {
+            "id": "35571337",
+            "name": "請選擇糖度 Please Choose  Sweetness-請選擇糖度 Please Choose  Sweetness",
+            "modifierOptions": [{
+                    "id": "568936115",
+                    "name": "Standard Sugar 正常-Standard Sugar 正常"
+                }, {
+                    "id": "568936116",
+                    "name": "Less Sugar 少甜-Less Sugar 少甜"
+                }, {
+                    "id": "568936117",
+                    "name": "Slight Sugar 微甜-Slight Sugar 微甜"
+                }, {
+                    "id": "568936118",
+                    "name": "No Sugar 去甜-No Sugar 去甜"
+                }
+            ],
+            "minSelection": 1,
+            "maxSelection": 1
+        }
+    ]
+}
